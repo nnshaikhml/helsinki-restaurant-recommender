@@ -1,0 +1,1114 @@
+[
+  {
+    "name": "Yes Yes Yes",
+    "cuisine": "Vegetarian",
+    "neighborhood": "Punavuori",
+    "price_level": 2,
+    "vegetarian_options": true,
+    "ambiance": [
+      "casual"
+    ],
+    "description": "A vegetarian restaurant with a lively bar atmosphere, a seasonally changing menu, and dishes inspired by different cuisines.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLduJq26msaVl-3_kXIs61V5N1y3Yd7FFpSQcxL8cVvaUz8WCVnkbJUQeCw6mQcXcbTAQzqA9fFJf_mpoZP2v6-JKFrtHUp4lS-zBcmugjxslkVXHmfmLCpmCZSsJVcpfLjb1s3RIg=w408-h272-k-no",
+    "maps_url": "https://maps.google.com/?q=Yes+Yes+Yes+Helsinki",
+    "dietary": [
+      "Vegetarian",
+      "Vegan"
+    ],
+    "pet_friendly": true
+  },
+  {
+    "name": "Mei Lin Sichuan & Vegan Restaurant",
+    "cuisine": "Chinese",
+    "neighborhood": "Kamppi",
+    "price_level": 2,
+    "vegetarian_options": true,
+    "ambiance": [
+      "casual"
+    ],
+    "description": "A Sichuan restaurant serving spicy regional dishes alongside vegan options.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd08PGvfkSEasT_BQ3JwLdwDP2yD2U5rqPrQWWtsAOiqskrhFHmb4vzJgUgPurWSDfnTggMHpdUIecvagBYTyrw5t2j2ih6ii-ys_edp9KLbDvYp7RbVLRxjA3MBUYlMBq2uAg8=w426-h240-k-no",
+    "maps_url": "https://maps.google.com/?q=Mei+Lin+Sichuan+Helsinki",
+    "dietary": [
+      "Vegetarian",
+      "Vegan",
+      "Halal",
+      "Dairy-Free"
+    ],
+    "pet_friendly": true
+  },
+  {
+    "name": "Ravintola Nolla",
+    "cuisine": "Modern Finnish",
+    "neighborhood": "City Centre",
+    "price_level": 3,
+    "vegetarian_options": true,
+    "ambiance": [
+      "casual"
+    ],
+    "description": "A seasonal restaurant focused on local ingredients and a zero-waste approach, with vegetarian-friendly options.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcgAs-31-y9bl3lEq2WYYjdBnhKcv0NlFdrqW_2Rf6yfFBkTnagQNBcFd9nCNuEP0ISfohJHNgyOwNC762JyK2n3067gV_-OgHkUfQ7yI02JY8sN29QbkFusTeSoda3oy9_J6jW5Q=w408-h305-k-no",
+    "maps_url": "https://maps.google.com/?q=Restaurant+Nolla+Helsinki",
+    "dietary": [
+      "Vegetarian"
+    ],
+    "pet_friendly": false
+  },
+  {
+    "name": "Ravintola Hills Dumplings",
+    "cuisine": "Asian",
+    "neighborhood": "Kamppi",
+    "price_level": 2,
+    "vegetarian_options": true,
+    "ambiance": [
+      "casual"
+    ],
+    "description": "A casual restaurant serving dumplings and bao, including vegetarian choices.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcEr2SHy17jiJ92A6IFvGDRS1F2GRb2LEVIZg9kfVoqcCYqVLeoCpGOXf5iC4uMo2T3i5EFbMNL61s4FUjBwepFsMMy4bR6VF8o8j2nk0usBdIGGxzrKOKxXiuoTaCijgXydAjkWA=w408-h272-k-no",
+    "maps_url": "https://maps.google.com/?q=Hills+Dumplings+Helsinki",
+    "dietary": [
+      "Vegetarian",
+      "Dairy-Free"
+    ],
+    "pet_friendly": true
+  },
+  {
+    "name": "Ravintola Tandoori Villa Kalasatama",
+    "cuisine": "Indian",
+    "neighborhood": "Kalasatama",
+    "price_level": 2,
+    "vegetarian_options": true,
+    "ambiance": [
+      "casual",
+      "family-friendly"
+    ],
+    "description": "An Indian restaurant at Sörnäistenlaituri 3 serving lunch and dinner, with vegetarian dishes on the menu.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfWmNpL_PDu87GgR7JbsWLdfrxYHTCuRP1Tq4-QFZl0rAAYrRho3NCQSgU72JonEIbK9SlgaUO1K0HDkyjD69Pf2Ly2bhTU2nLXIL3NNysPs-hFgLI9xai1_tmkwJauor9FcWIVaVEhMjjP=w408-h544-k-no",
+    "maps_url": "https://maps.google.com/?q=Ravintola+Tandoori+Villa+Kalasatama+Helsinki",
+    "dietary": [
+      "Vegetarian",
+      "Halal"
+    ],
+    "pet_friendly": false
+  },
+  {
+    "name": "Ravintola Tandoori Villa Postipuisto",
+    "cuisine": "Indian",
+    "neighborhood": "Postipuisto",
+    "price_level": 2,
+    "vegetarian_options": true,
+    "ambiance": [
+      "casual",
+      "family-friendly"
+    ],
+    "description": "An Indian restaurant at Postiljooninkatu 4 serving lunch and dinner, with vegetarian options.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcXFefNm4FDhA9G27RGkpuxyuztr898UuTlwDzuG3rsU5GY32uVfLXdBoZhS8Emz2_mtmChMKgmSMFEUANA4ivlLyHMcDTm-_rGdYkBNvyWZsN5GJrwYNFgXDYpQIP23cMV-wlcM4cvHuPR=w408-h306-k-no",
+    "maps_url": "https://maps.google.com/?q=Ravintola+Tandoori+Villa+Postipuisto+Helsinki",
+    "dietary": [
+      "Vegetarian",
+      "Halal"
+    ],
+    "pet_friendly": false
+  },
+  {
+    "name": "Yemeni Ravintola",
+    "cuisine": "Yemeni",
+    "neighborhood": "Herttoniemi",
+    "price_level": 2,
+    "vegetarian_options": true,
+    "ambiance": [
+      "casual",
+      "family-friendly"
+    ],
+    "description": "A Yemeni restaurant serving dishes such as mandi, kabsa, falafel, and papu-yemani. The menu lists main dishes around €15–€23 and includes vegetarian choices.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfzP4Ex0h1qJGbU4P--uP5vCiVLz6OJ1JiWZoXBTgQDw218fOyIEP8VPfNnY2kPhvppf-2TrjRbycu5iret77TB4qvTDiUiVeu9BHghMHglJJqXBNDKSLgNOp49ZlTtMb4IvX-ZjgQP0hL_=w408-h272-k-no",
+    "maps_url": "https://maps.google.com/?q=Yemeni+Ravintola+Helsinki",
+    "dietary": [
+      "Vegetarian",
+      "Halal"
+    ],
+    "pet_friendly": false
+  },
+  {
+    "name": "Ravintola Savotta",
+    "cuisine": "Finnish",
+    "neighborhood": "City Centre",
+    "price_level": 3,
+    "vegetarian_options": true,
+    "ambiance": [
+      "cozy"
+    ],
+    "description": "A Finnish restaurant by Senate Square serving traditional dishes, including fish, meat, and a vegetarian country menu.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcCAj80RBorAFh309zLxq9kokLsjxVzVXWD3QuDbIacWfcoWmjT_m6Mg908-gQI-ZEQ6XIYzICxXoCw7p-_Xuf7-Ggn1OzZSWhItM5KJTkEqhBxN-NS7pxnWW9-bcOQT2QVW2M8=w408-h272-k-no",
+    "maps_url": "https://maps.google.com/?q=Restaurant+Savotta+Helsinki",
+    "dietary": [
+      "Vegetarian"
+    ],
+    "pet_friendly": false
+  },
+  {
+    "name": "Ravintola Sea Horse",
+    "cuisine": "Finnish",
+    "neighborhood": "Ullanlinna",
+    "price_level": 2,
+    "vegetarian_options": true,
+    "ambiance": [
+      "cozy"
+    ],
+    "description": "A long-running Finnish restaurant known for classics such as Baltic herring, salmon soup, and schnitzel. Its menu also includes vegan dishes such as king oyster mushroom schnitzel.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLchN1JnQ679W_GjXWF1HeQBdxNK6FgsSFSc4-sznXWwi0rhrxBWexmTJfAinMcEdSj_Wb7Vh8ZZnsRi6nnXeIDMi23_XRM1TNRDKq1IEkEHCuDHk-Ea9cn28PRLtK0T6KRChFKUbw=w408-h510-k-no",
+    "maps_url": "https://maps.google.com/?q=Restaurant+Sea+Horse+Helsinki",
+    "dietary": [
+      "Vegetarian",
+      "Vegan"
+    ],
+    "pet_friendly": false
+  },
+  {
+    "name": "Farang",
+    "cuisine": "Southeast Asian",
+    "neighborhood": "Kamppi",
+    "price_level": 3,
+    "vegetarian_options": true,
+    "ambiance": [
+      "casual"
+    ],
+    "description": "A modern Southeast Asian restaurant serving meat and seafood dishes as well as vegetarian and vegan options.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdU8A99j7BiAff3MMw5XYWxTiqfMJJuN4azpbwwn3npORdsSPvMsHa__dxrmW6KwdA4-0ux-b9q6YZKPtIyKQzJerUoZdCu0cx73g5lFKDsM1--75ZbjN9-WzffYzwk85H23uKU=w408-h306-k-no",
+    "maps_url": "https://maps.google.com/?q=Farang+Helsinki",
+    "dietary": [
+      "Vegetarian",
+      "Vegan",
+      "Dairy-Free"
+    ],
+    "pet_friendly": false
+  },
+  {
+    "name": "Ravintola Tandoori Villa Metsälä",
+    "cuisine": "Indian",
+    "neighborhood": "Metsälä",
+    "price_level": 2,
+    "vegetarian_options": true,
+    "ambiance": [
+      "casual"
+    ],
+    "description": "An Indian restaurant at Niittyläntie 2 serving meat, seafood, and vegetarian dishes, with a lunch buffet and takeout.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcVSLjOysmS4nWIqD2OrZA40c9OhS3NEmWb2axr1iNAT7zxg7vJFf1Zzh8V1cwG_Cue6CO0r6H2TUMBdl8TTbbxEhpWuyoBHBMhemq32htMWvEiCjLZMMiRf6iBbqROpbW4Aob7O0J667I=w426-h240-k-no",
+    "maps_url": "https://maps.google.com/?q=Tandoori+Villa+Metsala+Helsinki",
+    "dietary": [
+      "Vegetarian",
+      "Halal"
+    ],
+    "pet_friendly": false
+  },
+  {
+    "name": "Farouge",
+    "cuisine": "Lebanese",
+    "neighborhood": "Kaartinkaupunki",
+    "price_level": 3,
+    "vegetarian_options": true,
+    "ambiance": [
+      "cozy"
+    ],
+    "description": "A Lebanese restaurant serving shared meze, meat, and seafood dishes, with vegan options.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLetFafK3ELqTmRDFN9V1cotmd6F6eurulw7aQD_dwtrIhNFxQLPr9RaFvOCK_O8A3I1U3dwd-5WRJNdJ_ZoMiwQ196Nz6i8ksRYZItBRRpWylcByguGjddoUTzbGoruOxOz3uS6RA=w426-h240-k-no",
+    "maps_url": "https://maps.google.com/?q=Farouge+Helsinki",
+    "dietary": [
+      "Vegetarian",
+      "Vegan",
+      "Halal"
+    ],
+    "pet_friendly": false
+  },
+  {
+    "name": "ZhenHao DimSum",
+    "cuisine": "Chinese",
+    "neighborhood": "Taka-Töölö",
+    "price_level": 2,
+    "vegetarian_options": true,
+    "ambiance": [
+      "cozy",
+      "casual"
+    ],
+    "description": "An authentic Hong Kong style restaurant in Taka-Töölö serving handmade dumplings, fresh noodles, and traditional dim sum dishes.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLclgv0CUdYkAt4J3XDTJhQlmC0Ya0aAWUj7hlhqtHr_HlbYHp_XgHiV9mGhiNHWcgipA6rqeJUdDa-VbK3sfsWWqxpELNIkunjWjtqxl3FXh12flWBxozvYYRaakyKeAktJEtbCDrTtoqQ=w408-h278-k-no",
+    "maps_url": "https://maps.google.com/?q=ZhenHao+DimSum+Helsinki",
+    "dietary": [
+      "Vegetarian",
+      "Vegan",
+      "Dairy-Free"
+    ],
+    "pet_friendly": true
+  },
+  {
+    "name": "Luckiefun's Pasila",
+    "cuisine": "Asian",
+    "neighborhood": "Pasila",
+    "price_level": 2,
+    "vegetarian_options": true,
+    "ambiance": [
+      "casual"
+    ],
+    "description": "A sushi buffet in Mall of Tripla with sushi, hot Asian-style dishes, and vegetarian sushi. The listed buffet prices are €15.90 for weekday lunch and €20.90 for evenings, weekends, and public holidays.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf3XvmOQPfyUjZYWtAQS3Y2Ouoj9B7IvHUPCbKiIicq4m40xKHmwM9-5q-Oob6XSK5aCohjkRzVUGg1-Tqe7TI_AkzFC2iqOCjvNfT57buZxMiHtfR4AbkLdaPFDBKxgvCUnxa3=w408-h306-k-no",
+    "maps_url": "https://maps.google.com/?q=Luckiefuns+Pasila+Helsinki",
+    "dietary": [
+      "Vegetarian",
+      "Dairy-Free"
+    ],
+    "pet_friendly": true
+  },
+  {
+    "name": "Luckiefun's Sushibuffet",
+    "cuisine": "Asian",
+    "neighborhood": "City Centre",
+    "price_level": 2,
+    "vegetarian_options": true,
+    "ambiance": [
+      "casual"
+    ],
+    "description": "A sushi buffet at Kaivokatu 10 serving Japanese sushi and Asian dishes, with a large vegetarian sushi selection.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcpzsU4lr_mS6T4CL_AmR63syYs7XKk6b188a1IEeen4Ln8LMKaul7m4ao9nrV0XZl50ebZtL7KTrG1XqZ28DOAJh5lxMVqfe3oMqEBLRt-IOOE2fPv6wjOnCDsFEKgTmpSIgrX=w408-h306-k-no",
+    "maps_url": "https://maps.google.com/?q=Luckiefuns+Kaivokatu+Helsinki",
+    "dietary": [
+      "Vegetarian",
+      "Dairy-Free"
+    ],
+    "pet_friendly": true
+  },
+  {
+    "name": "Luckiefun's Itis",
+    "cuisine": "Asian",
+    "neighborhood": "Itäkeskus",
+    "price_level": 2,
+    "vegetarian_options": true,
+    "ambiance": [
+      "casual"
+    ],
+    "description": "A sushi buffet at Itäkatu 1–7 with sushi, hot Asian-inspired dishes, and vegetarian sushi.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdMrgFSVry7tlqzwMHIHq0gMNDnmPsmrk3KtCDzno0jMrZhu_OXRUKO3Ps0lAtKDMLrkmWWACEdNqCKxe9lAseVMglRQaJjyaFY1X30fwvybZeGJX1lAihBMSz2tY7H0cvUv7yzey5RkKfk=w408-h270-k-no",
+    "maps_url": "https://maps.google.com/?q=Luckiefuns+Itis+Helsinki",
+    "dietary": [
+      "Vegetarian",
+      "Dairy-Free"
+    ],
+    "pet_friendly": true
+  },
+  {
+    "name": "Damak Restaurant",
+    "cuisine": "Turkish",
+    "neighborhood": "Herttoniemi",
+    "price_level": 2,
+    "vegetarian_options": true,
+    "ambiance": [
+      "casual"
+    ],
+    "description": "A Turkish restaurant at Insinöörinkatu 14 serving pizza, kebabs, grilled dishes, and salads, with vegetarian and vegan options.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc_i3eeWTPKqC-7Lg66FWM1D3Jj7DtktYBNZ-Yc-ABLRjJ-8p02KuENpO8K341H60PBmkt8v5i7swg3SHO6P1SB0IsIUzaOVQXpCGYfr7123bP8VM3q5xnrLJsqjQRyN28LerQlkAxLE9uj=w408-h303-k-no",
+    "maps_url": "https://maps.google.com/?q=Damak+Restaurant+Helsinki",
+    "dietary": [
+      "Vegetarian",
+      "Vegan",
+      "Halal"
+    ],
+    "pet_friendly": true
+  },
+  {
+    "name": "Tandoori Flames",
+    "cuisine": "North Indian",
+    "neighborhood": "Vallila",
+    "price_level": 2,
+    "vegetarian_options": true,
+    "ambiance": [
+      "casual"
+    ],
+    "description": "A family-owned North Indian restaurant at Mäkelänkatu 30 serving tandoori dishes, curries, and meat dishes, with vegetarian and vegan choices.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfnaL_TOCqiGII2aRa0jH2eBfJcc2ST16hVjgRLeBuTqlbb6QvFYqMJvqGuH8XZGjmG6XwPyeHAHZ9-9xOQp5lwnLFKtSe9M-j4p6kzXjDssdzs1vO6ZYPkF8AltJaZ0kV8PINlQA=w453-h240-k-no",
+    "maps_url": "https://maps.google.com/?q=Tandoori+Flames+Helsinki",
+    "dietary": [
+      "Vegetarian",
+      "Vegan",
+      "Halal"
+    ],
+    "pet_friendly": true
+  },
+  {
+    "name": "Ravintola Tandoori Cuisine Lehtisaari",
+    "cuisine": "Indian",
+    "neighborhood": "Lehtisaari",
+    "price_level": 2,
+    "vegetarian_options": true,
+    "ambiance": [
+      "casual",
+      "family-friendly"
+    ],
+    "description": "An Indian restaurant at Lehtisaarentie 2a serving chicken, lamb, fish, and tandoori dishes, alongside vegetarian and vegan options.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcOlKxGJUa5wiUruxPqXfrXQA3ejMFDjqxus3D5MxLSxVYlwnaUc08Z1MzJAP9CHEdVIMjYZUl-dGwhbn1VJb8g_Rwl0wDIZSFGKh-N99-xV9ZJSwUIPUd-wzKSAJFWorDp9AptAMSRzaM=w408-h725-k-no",
+    "maps_url": "https://maps.google.com/?q=Tandoori+Cuisine+Lehtisaari+Helsinki",
+    "dietary": [
+      "Vegetarian",
+      "Vegan",
+      "Halal"
+    ],
+    "pet_friendly": false
+  },
+  {
+    "name": "Kappeli",
+    "cuisine": "Finnish",
+    "neighborhood": "City Centre",
+    "price_level": 3,
+    "vegetarian_options": true,
+    "ambiance": [
+      "cozy"
+    ],
+    "description": "A historic glass-walled landmark restaurant in Esplanade Park offering classic Finnish and Scandinavian dishes in a magnificent setting.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeXN6C_skxwmFAxiiuCim1jcpDtg-QM6zRkeegUzV_OsTXBsaoooCYBwAVvLFgbcTyzcZT9tkuV2QxWbEz7xeFQ1EXdVly7_2ST4Ulfp9wwq0U9wimkqlC-f_m6rL3C0wGE5Wv9Zrq9oNeJ=w408-h307-k-no",
+    "maps_url": "https://maps.google.com/?q=Ravintola+Kappeli+Helsinki",
+    "dietary": [
+      "Vegetarian"
+    ],
+    "pet_friendly": false
+  },
+  {
+    "name": "BasBas Kulma",
+    "cuisine": "Modern European",
+    "neighborhood": "Punavuori",
+    "price_level": 3,
+    "vegetarian_options": true,
+    "ambiance": [
+      "cozy",
+      "casual",
+      "intimate"
+    ],
+    "description": "A buzzing neighborhood favorite in Punavuori known for incredible small plates, phenomenal wine lists, and a lively, intimate atmosphere.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcR_YYPBc_YSxFr_sSl_-ERxoTyVnQecQY1elFBXNSgTJfNk-6SjY2-VM2F7Rwe_byEq3KABAKfcIF3XHzWnOxHRJQn-FKy9Bb-FTUptGNyhy_uBPNwXWn1B29tDwBUgW2PPI9VJw=w408-h272-k-no",
+    "maps_url": "https://maps.google.com/?q=BasBas+Kulma+Helsinki",
+    "dietary": [
+      "Vegetarian",
+      "Gluten-Free"
+    ],
+    "pet_friendly": false
+  },
+  {
+    "name": "Forza",
+    "cuisine": "Italian",
+    "neighborhood": "Punavuori",
+    "price_level": 2,
+    "vegetarian_options": true,
+    "ambiance": [
+      "casual"
+    ],
+    "description": "An acclaimed neighborhood pizzeria in Punavuori serving world-class Neapolitan pizzas crafted with top-tier Finnish and Italian ingredients.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeA8BWZh57tRdY2RJwitUmp1Fybo1FToTU_rE2GSBVX0VknHRtJUmyZ5HsIhewBmzR9D3KP4wFw5i1UQCrYNPoYaYHEwmaV0ckV93SzVQtKs6Y8-f3bLMqxQxzXjofAGbkMhzY=w408-h544-k-no",
+    "maps_url": "https://maps.google.com/?q=Forza+Helsinki",
+    "dietary": [
+      "Vegetarian",
+      "Gluten-Free"
+    ],
+    "pet_friendly": true
+  },
+  {
+    "name": "Winest",
+    "cuisine": "Georgian",
+    "neighborhood": "City Centre",
+    "price_level": 2,
+    "vegetarian_options": true,
+    "ambiance": [
+      "cozy"
+    ],
+    "description": "A warm central bistro near Kasarmitori serving comforting Georgian classics like cheese-filled khachapuri, hearty dumplings, and unique amber wines.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfm801tdQc75A8hEtGZeshnk6ZrS0L0QGJ-az0DqoyrCHUJqJd-GWrEXCE4dx_IUZp1xYe3yYnsiA3L-h3_WZcVXM1HF0ZeFrfpZ8xtAW507ktRRhZgElgsDk-qgKc4oXUfiRNU8QbT_Jnn=w408-h272-k-no",
+    "maps_url": "https://maps.google.com/?q=Winest+Helsinki",
+    "dietary": [
+      "Vegetarian"
+    ],
+    "pet_friendly": false
+  },
+  {
+    "name": "Restaurant Grön",
+    "cuisine": "Modern Nordic",
+    "neighborhood": "Kamppi",
+    "price_level": 3,
+    "vegetarian_options": true,
+    "ambiance": [
+      "cozy"
+    ],
+    "description": "A creative Michelin-starred restaurant focusing on wild, organic, and seasonal Nordic produce with a natural philosophy.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLejGCA8Hi_6dTQPlU1724hdwNxJtR-FFok9uvCxeoScTmZljcWqaJnOe6SX5Fh0KVcls4J08Z71kkIeHfxCBhBYjd0cr7uYSydlhLGXmVk4oZJSVXXwwVUqz1lgNQ-L2YhWFqXdzA=w408-h544-k-no",
+    "maps_url": "https://maps.google.com/?q=Restaurant+Gron+Helsinki",
+    "dietary": [
+      "Vegetarian",
+      "Gluten-Free"
+    ],
+    "pet_friendly": false
+  },
+  {
+    "name": "Ravintola Palace",
+    "cuisine": "Modern Nordic",
+    "neighborhood": "City Centre",
+    "price_level": 3,
+    "vegetarian_options": true,
+    "ambiance": [
+      "cozy"
+    ],
+    "description": "Finland's iconic multi-Michelin-starred restaurant on the 10th floor, blending French and Nordic techniques with harbor views.",
+    "image_url": "https://images.unsplash.com/photo-1537047902294-62a40c20a6ae?auto=format&fit=crop&w=800&q=80",
+    "maps_url": "https://maps.google.com/?q=Ravintola+Palace+Helsinki",
+    "dietary": [
+      "Vegetarian",
+      "Gluten-Free"
+    ],
+    "pet_friendly": false
+  },
+  {
+    "name": "Finnjävel",
+    "cuisine": "Finnish",
+    "neighborhood": "City Centre",
+    "price_level": 3,
+    "vegetarian_options": true,
+    "ambiance": [
+      "cozy"
+    ],
+    "description": "A Michelin-starred restaurant celebrating traditional Finnish cuisine elevated to world-class fine dining.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeWQNQWyTGb6gbhQvG0B8SpHI3zd-JJJ9YLRKU5UvY2n7aZCVgl6MpF_uc3RLwJQTBjg05Dr8Vc1rSuDBtIFTn9aDTgbcsM6S9DxzMozYBSt7cIR04Evgi1HwFXRquF3EYw5LmcsQ=w408-h272-k-no",
+    "maps_url": "https://maps.google.com/?q=Finnjavel+Helsinki",
+    "dietary": [
+      "Vegetarian"
+    ],
+    "pet_friendly": false
+  },
+  {
+    "name": "Café Savoy",
+    "cuisine": "French-Finnish",
+    "neighborhood": "City Centre",
+    "price_level": 3,
+    "vegetarian_options": true,
+    "ambiance": [
+      "cozy"
+    ],
+    "description": "An iconic historical restaurant featuring classic interior design by Alvar Aalto and legendary rooftop terrace views.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc6rrmUKDp4tucAydTC5STwj7TZad6N1ozlVy9GXqBGLx0JcXIzsAdYtqaI4F8jPl5TyDgYLnFvxpCpSYU6eE7mbDu_9DHQUPMPpoV2T-AjuezoSBuVzDEzMPrBf0KJZdmT7Ggkow=w408-h306-k-no",
+    "maps_url": "https://maps.google.com/?q=Ravintola+Savoy+Helsinki",
+    "dietary": [
+      "Vegetarian",
+      "Gluten-Free"
+    ],
+    "pet_friendly": false
+  },
+  {
+    "name": "Gastro Cafe Kallio",
+    "cuisine": "French",
+    "neighborhood": "Kallio",
+    "price_level": 2,
+    "vegetarian_options": true,
+    "ambiance": [
+      "casual",
+      "family-friendly"
+    ],
+    "description": "A beloved local bistro offering French-leaning comfort dishes, incredible baking, and a wonderful weekend brunch.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcV1pLVaFP9D7H-eB1SHxOQZiByRIR5cVEhN6mGUEuaBRHbbJ_7Fl2fUc0vmSq9tnWxYWcTlxQsMvepB-rkX8F-rA3JkoHDYMlZeV_YNbF7twZyBq7oANbCdGTIBL2FdPYjRA0qEs734fMJ=w408-h544-k-no",
+    "maps_url": "https://maps.google.com/?q=Gastro+Cafe+Kallio+Helsinki",
+    "dietary": [
+      "Vegetarian",
+      "Gluten-Free"
+    ],
+    "pet_friendly": true
+  },
+  {
+    "name": "Ravintola Kuurna",
+    "cuisine": "Modern European",
+    "neighborhood": "Kruununhaka",
+    "price_level": 3,
+    "vegetarian_options": true,
+    "ambiance": [
+      "cozy",
+      "intimate"
+    ],
+    "description": "An intimate, candle-lit bistro near Uspenski Cathedral serving creative, seasonal European dishes.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfOgqR6Rj7qQgamJBoBmlAusEJgQ9WwDsC6rHDAR-oS2oQQBJdDrcK8OR2ECKNIfsybFgr_JjLQRU7e9YEDfrUlrf-bEkStn7IuLItdFUOtt4I9nb9_DvtcKp2lWf5F3yqxfTU=w408-h272-k-no",
+    "maps_url": "https://maps.google.com/?q=Restaurant+Kuurna+Helsinki",
+    "dietary": [
+      "Vegetarian",
+      "Gluten-Free"
+    ],
+    "pet_friendly": false
+  },
+  {
+    "name": "Boulevard Bar & Seafood",
+    "cuisine": "Seafood",
+    "neighborhood": "City Centre",
+    "price_level": 3,
+    "vegetarian_options": true,
+    "ambiance": [
+      "cozy",
+      "formal dining"
+    ],
+    "description": "A French-inspired fish and seafood bistro on Bulevardi run by top culinary talent.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdrbqQe_eNBd-9bTCuSc7HjkAg_-CqlShEJ26mJTPCnYbD0puBE4iO82aiajwbH7M7sm0nt6AmKct8dbggrOH3codUi7zK4kGFVMg6rcs71oxUInmT2slt7xyeE1ko331d9DvFarQ=w408-h509-k-no",
+    "maps_url": "https://maps.google.com/?q=Boulevard+Bar+Seafood+Helsinki",
+    "dietary": [
+      "Vegetarian",
+      "Gluten-Free",
+      "Dairy-Free"
+    ],
+    "pet_friendly": false
+  },
+  {
+    "name": "Bistro Bardot",
+    "cuisine": "French",
+    "neighborhood": "City Centre",
+    "price_level": 3,
+    "vegetarian_options": true,
+    "ambiance": [
+      "casual"
+    ],
+    "description": "A modern French brasserie by chef Hans Välimäki offering decadent snacks and classic bistro main courses.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdLavwEwkDQmGsY-nJc0pJgEea_eksGJwatWRjMBHc9mIbVzTCS3q8B_ovIuCUiZrcKk9oglzIprBbyg0WcxrffcbiDctHoqxn4cwy8R6rWGOuGY106toLzS-u0-oNiKZUHb8k3=w408-h389-k-no",
+    "maps_url": "https://maps.google.com/?q=Bistro+Bardot+Helsinki",
+    "dietary": [
+      "Vegetarian",
+      "Gluten-Free"
+    ],
+    "pet_friendly": false
+  },
+  {
+    "name": "Elm",
+    "cuisine": "Mediterranean",
+    "neighborhood": "Kaivopuisto",
+    "price_level": 2,
+    "vegetarian_options": true,
+    "ambiance": [
+      "cozy",
+      "casual"
+    ],
+    "description": "Mediterranean-inspired dishes served inside a gorgeous 19th-century wooden villa tucked away in a quiet park.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcl1EvMR-FLDXKVv62lvP7UU0r0umedRmKwRjatITqr8cO1n_OWxC6hBAeictnhXPaU1sU6DTL00-aUggLJdruaxl27jHJG7RrkAJxv0LH4fTv_zda1ylE8ylZVFJwbEuryrUKHHA=w408-h544-k-no",
+    "maps_url": "https://maps.google.com/?q=Ravintola+Elm+Helsinki",
+    "dietary": [
+      "Vegetarian"
+    ],
+    "pet_friendly": true
+  },
+  {
+    "name": "Fisken på Disken",
+    "cuisine": "Seafood",
+    "neighborhood": "Kamppi",
+    "price_level": 2,
+    "vegetarian_options": true,
+    "ambiance": [
+      "casual"
+    ],
+    "description": "Located inside Kamppi shopping center, famous for serving one of the best creamy salmon soups in town.",
+    "image_url": "https://www.google.com/maps/place/Fisken+p%C3%A5+Disken/@60.1689965,24.9339985,3a,75y,90t/data=!3m8!1e2!3m6!1sCIABIhDG3LzVLFzP1s9QIcfmtpWq!2e10!3e12!6shttps:%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FANWiy9SW8znEWpy5Yz1fgODX5cSHTq5mt8amZ3jMdcxYf2vq__8Pyico4q483OOyJH6bIWEUEXBLUrLdthPSzGrayxV_Qfnu9B7_dT7DHJBZN14l4IJ00PCCqeAKrPexMpTiPLGpg1vIwNwiu88D%3Dw203-h114-k-no!7i4000!8i2252!4m7!3m6!1s0x46920a3354ea7d19:0x39fcb2de0314af3c!8m2!3d60.1693782!4d24.9338869!10e5!16s%2Fg%2F11c2q0kl6p?entry=ttu&g_ep=EgoyMDI2MTEwMS4wIKXMDSoASAFQAw%3D%3D#",
+    "maps_url": "https://maps.google.com/?q=Fisken+pa+Disken+Helsinki",
+    "dietary": [
+      "Vegetarian",
+      "Gluten-Free",
+      "Dairy-Free"
+    ],
+    "pet_friendly": true
+  },
+  {
+    "name": "Le Coucou Vert",
+    "cuisine": "French",
+    "neighborhood": "Punavuori",
+    "price_level": 2,
+    "vegetarian_options": true,
+    "ambiance": [
+      "cozy"
+    ],
+    "description": "An inviting neighborhood French bistro celebrating classic bistro plates, natural wines, and friendly ambiance.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfkL2jD1tjeSv9poReAF7O67ol78g8x10v8U2OzcHIBfluxQhl3IDUT-5DVedu_aZdWTfMLqGSBo81zayI9uZa13rmjowrmO10BSyim9qqxfIfq9vlkv6amg_DCRSY__Yo6zGw0g0oT2ezS=w426-h240-k-no",
+    "maps_url": "https://maps.google.com/?q=Le+Coucou+Vert+Helsinki",
+    "dietary": [
+      "Vegetarian",
+      "Gluten-Free"
+    ],
+    "pet_friendly": false
+  },
+  {
+    "name": "Ravintola Pamela",
+    "cuisine": "Middle Eastern",
+    "neighborhood": "City Centre",
+    "price_level": 2,
+    "vegetarian_options": true,
+    "ambiance": [
+      "casual"
+    ],
+    "description": "Modern dishes cooked over a charcoal grill with vibrant Middle Eastern flavor twists.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcgeu2CZ-ihu1hx0Y0f63cu7KFrBzfNZCJ0U8HuWrIVJQQ-TFFuQMWqpmsuE9t7J9jXlGpDN0ktgM7Hr2vbaZJwlah5Y1MkLmOp0LGuBjIn1dA8J2whviwLy-p5NKEx-qbPjadP=w408-h306-k-no",
+    "maps_url": "https://maps.google.com/?q=Pamela+Helsinki",
+    "dietary": [
+      "Vegetarian",
+      "Halal"
+    ],
+    "pet_friendly": true
+  },
+  {
+    "name": "Brasa",
+    "cuisine": "Grill",
+    "neighborhood": "City Centre",
+    "price_level": 3,
+    "vegetarian_options": true,
+    "ambiance": [
+      "casual"
+    ],
+    "description": "A live-fire charcoal grill restaurant utilizing fresh local ingredients and pairing them with brilliant wine selections.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeVmzWKWX-g6tvfAkzu6sxRGDJhbUJIQ4ybMBx-0qVHkqeL3WVfy7juDD3IE1zDo3jd45pJQJyfRjy3KS3JlGm02xzLuBuaPGuH21dNMNZqht5rt493t90GM25A6SNEQy9w3b4ZusXO4tI=w426-h240-k-no",
+    "maps_url": "https://maps.google.com/?q=Brasa+Helsinki",
+    "dietary": [
+      "Vegetarian"
+    ],
+    "pet_friendly": false
+  },
+  {
+    "name": "Shelter",
+    "cuisine": "Modern European",
+    "neighborhood": "Katajanokka",
+    "price_level": 3,
+    "vegetarian_options": true,
+    "ambiance": [
+      "cozy"
+    ],
+    "description": "A stylish restaurant housed in a historic red-brick warehouse right by the waterfront near Uspenski Cathedral.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe7w6o0qFMpGimNfpdkMGHzzQDgXE13JK8LolLZruENQJBIY5ruspZnkJ5ZyCXot7ppvYjJyOV5qU-Uf0tvZBSzEt0MlyHT_UajYhrkmYS85BCzVa1q2B3fCp6od1EzBZ8LKszp=w426-h240-k-no",
+    "maps_url": "https://maps.google.com/?q=Restaurant+Shelter+Helsinki",
+    "dietary": [
+      "Vegetarian",
+      "Gluten-Free"
+    ],
+    "pet_friendly": false
+  },
+  {
+    "name": "Pobre",
+    "cuisine": "Filipino",
+    "neighborhood": "City Centre",
+    "price_level": 2,
+    "vegetarian_options": true,
+    "ambiance": [
+      "casual"
+    ],
+    "description": "A fantastic Spanish-Filipino fusion gem packed with bold, unique flavors.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc1bryJvgUA2jZJ8un_22iOcd8P4eszwDWuOFfWacnbRIW58KRfMjGad30ub2yH0SYDGvLIHpY1FIHZTksr3QeGO0KMzp1GLcaLmBwIlZZljomGqFka3NIIdVKOL2PyHxIuFiIlkNK5CJc=w408-h611-k-no",
+    "maps_url": "https://maps.google.com/?q=Pobre+Helsinki",
+    "dietary": [
+      "Vegetarian"
+    ],
+    "pet_friendly": true
+  },
+  {
+    "name": "Ravintola Aleksanderplats",
+    "cuisine": "French",
+    "neighborhood": "City Centre",
+    "price_level": 3,
+    "vegetarian_options": true,
+    "ambiance": [
+      "cozy"
+    ],
+    "description": "An upscale restaurant-brasserie offering exquisite multi-course lunch and dinner menus.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdlQNcZkiZgnMa6te2N613wph-clkCliDEmNTIGqtHJGjIZwZJPxjQXRVOgDMM7HKxZ6clHpfw4UpH_DloOi7s2spQyqnHvQnH6rNcohzURZPkKMYnj7YvXdOuJCVUhv3qjsx8=w426-h240-k-no",
+    "maps_url": "https://maps.google.com/?q=Aleksanderplats+Helsinki",
+    "dietary": [
+      "Vegetarian",
+      "Gluten-Free"
+    ],
+    "pet_friendly": false
+  },
+  {
+    "name": "Plein",
+    "cuisine": "Modern European",
+    "neighborhood": "Alppila",
+    "price_level": 3,
+    "vegetarian_options": true,
+    "ambiance": [
+      "cozy"
+    ],
+    "description": "A refined neighborhood restaurant boasting meticulous attention to detail and freshly baked artisan breads.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeblIhjDY87FOJmVdDFSRF3_2qcm-_qcl8Sbk9496o9AK_7JInVNjF-OlA5XBt2-0TKaJLHtjVp1YW0eiQpUFRGKhuCFYKqStzYJ3ez30K3sCSrM88iq0oJkhtjTIIxMH7yjAiwKQ=w408-h544-k-no",
+    "maps_url": "https://maps.google.com/?q=Restaurant+Plein+Helsinki",
+    "dietary": [
+      "Vegetarian",
+      "Gluten-Free"
+    ],
+    "pet_friendly": false
+  },
+  {
+    "name": "Goose Pastabar",
+    "cuisine": "Italian",
+    "neighborhood": "Kamppi",
+    "price_level": 2,
+    "vegetarian_options": true,
+    "ambiance": [
+      "casual",
+      "cozy"
+    ],
+    "description": "A cozy neighborhood spot serving fresh, handmade pasta dishes.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdQsAm9v6Sf2yl4dKg9kaXr5NGhXwD-Qhu9IPRIiIl8GhiIX8OAh8h1DSHJ8oWUFuyC59Di34ktM7hxNk9rO0GfNK_QkRyt41tvwIlv11XHdvEMdvcDnrTXHRTyRvhPJUVPUJvK=w408-h300-k-no",
+    "maps_url": "https://maps.google.com/?q=Goose+Pastabar+Helsinki",
+    "dietary": [
+      "Vegetarian",
+      "Gluten-Free"
+    ],
+    "pet_friendly": true
+  },
+  {
+    "name": "Daddy Green's",
+    "cuisine": "Italian",
+    "neighborhood": "Punavuori",
+    "price_level": 2,
+    "vegetarian_options": true,
+    "ambiance": [
+      "casual"
+    ],
+    "description": "A popular casual pizzeria offering incredible sourdough pies and stellar vegan cheese choices.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcdlnbz-OXr06793Bi7n1_5SfB-A0uiZRYp0fvj60kd5WRslyMMzMGozGs7BXCWv9bMGgPQYmj2u9YRyf1IbmUtpRwJuv2Da0coFMwBKqBsuFky6w8d-XyNHtvr_iQ7TeZlKyJT=w408-h306-k-no",
+    "maps_url": "https://maps.google.com/?q=Daddy+Greens+Helsinki",
+    "dietary": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten-Free"
+    ],
+    "pet_friendly": true
+  },
+  {
+    "name": "Pho Viet",
+    "cuisine": "Vietnamese",
+    "neighborhood": "City Centre",
+    "price_level": 1,
+    "vegetarian_options": true,
+    "ambiance": [
+      "casual"
+    ],
+    "description": "A bustling spot serving authentic, deeply flavorful Vietnamese pho and street-food classics at great value.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd2u5PiI1S-zwqexKs_i_00ayKD1_Y8xJ-ygoAAJnrjBek4NkwA8Kb2muctu3f1Y5wIZFlurP_EmPK8v1965bKuyULsA62Nro4nNO4ZMCbEhPuASYuZaGFix3GOxCdyxfP5-igCAaJW_yPb=w408-h306-k-no",
+    "maps_url": "https://maps.google.com/?q=Pho+Viet+Helsinki",
+    "dietary": [
+      "Vegetarian",
+      "Dairy-Free"
+    ],
+    "pet_friendly": true
+  },
+  {
+    "name": "Noodle Master",
+    "cuisine": "Chinese",
+    "neighborhood": "Kamppi",
+    "price_level": 1,
+    "vegetarian_options": true,
+    "ambiance": [
+      "casual"
+    ],
+    "description": "Famous for hand-pulled Chinese noodles, spicy dandan bowls, and rich broths.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdXeUrZn8T01P77Nn1m05TNJVVgnncxwe5eJQGIvPIsNQ3tviYrdIh6yScSptxCJ09PQ94ErUxEDNgt7_1ot-u-pVwiL8GfmTzSDJKmQjUfIYaBRMr1VdtWKhKIdwfVwJQvnuGu=w408-h883-k-no",
+    "maps_url": "https://maps.google.com/?q=Noodle+Master+Helsinki",
+    "dietary": [
+      "Vegetarian",
+      "Halal",
+      "Dairy-Free"
+    ],
+    "pet_friendly": true
+  },
+  {
+    "name": "Siam Thai Modern",
+    "cuisine": "Thai",
+    "neighborhood": "Jätkäsaari",
+    "price_level": 2,
+    "vegetarian_options": true,
+    "ambiance": [
+      "casual"
+    ],
+    "description": "A friendly local neighborhood gem serving genuinely authentic modern Thai curries and stir-fries.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdTdNNPVELyMzeGS2WXwfsNi0mjl11DGXgdVEU7M9TK0X7odeqPR_w8mRfWwxP2yu8KnsPrMaOuulbhQtp8hoB_Mb_BGawnbzsKEyMWSTiyk9uzq1Bfe2zVRHdXQGfdt1ZS57ejvHyVtMF9=w408-h408-k-no",
+    "maps_url": "https://maps.google.com/?q=Siam+Thai+Modern+Helsinki",
+    "dietary": [
+      "Vegetarian",
+      "Dairy-Free"
+    ],
+    "pet_friendly": true
+  },
+  {
+    "name": "Vinkkeli",
+    "cuisine": "Nordic",
+    "neighborhood": "Punavuori",
+    "price_level": 3,
+    "vegetarian_options": true,
+    "ambiance": [
+      "cozy",
+      "formal dining"
+    ],
+    "description": "A classy wine-focused restaurant offering sophisticated, seasonally driven Nordic dishes.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcOdI8_M9eSX7q3gQUOn8UHL15Kh0cpNrNdUhnVmlNWYuqn8bjUpvitRxezfz21hwlnmA6_7K2PEhxahTbFKS074QABWfr_ivzllsqT8Ihd-d7JdA0EayPnoBT62HZ8SYRavlKC=w408-h272-k-no",
+    "maps_url": "https://maps.google.com/?q=Ravintola+Vinkkeli+Helsinki",
+    "dietary": [
+      "Vegetarian"
+    ],
+    "pet_friendly": false
+  },
+  {
+    "name": "Ravintola Lappi",
+    "cuisine": "Lapland",
+    "neighborhood": "City Centre",
+    "price_level": 3,
+    "vegetarian_options": true,
+    "ambiance": [
+      "cozy"
+    ],
+    "description": "A rustic atmospheric venue bringing the true taste of the Arctic north, reindeer specialties, and wilderness cabin vibes to central Helsinki.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdm5JsCnPV5Jh_RmWw5qGdH-HaO9ZDEu0YHMtbuLeCDxY_-AGLjJbdza-_pWAyFrFAv4xQ1aPWIVC35vHUgPaUrt_7JaSosjR5qYW8T88TWM-9rgyEgYvbLf9aqCTRdG1wpBZXs=w408-h306-k-no",
+    "maps_url": "https://maps.google.com/?q=Ravintola+Lappi+Helsinki",
+    "dietary": [
+      "Vegetarian"
+    ],
+    "pet_friendly": false
+  },
+  {
+    "name": "Restaurant Merimakasiini",
+    "cuisine": "Seafood",
+    "neighborhood": "Hietalahti",
+    "price_level": 2,
+    "vegetarian_options": true,
+    "ambiance": [
+      "casual"
+    ],
+    "description": "A classic retro-style seaside wooden pavilion overlooking Hietalahti bay serving fresh fish and shellfish.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcg2pVB6GexxJG_PxwExH-W2DnsAUz16Ggoanx8eZfQru82seXPzREBk9d-u99D9fzkStn7y2KNeBtkcphuet0si2peZeLVQQyyrlRwJX7v9IfO4IeQKMryQmzHi8qRVRiqQGuvVg=w428-h240-k-no",
+    "maps_url": "https://maps.google.com/?q=Merimakasiini+Helsinki",
+    "dietary": [
+      "Vegetarian",
+      "Gluten-Free",
+      "Dairy-Free"
+    ],
+    "pet_friendly": true
+  },
+  {
+    "name": "Ventuno",
+    "cuisine": "Italian",
+    "neighborhood": "City Centre",
+    "price_level": 3,
+    "vegetarian_options": true,
+    "ambiance": [
+      "cozy"
+    ],
+    "description": "An upscale modern Italian restaurant located in a historic stone building that once served as secret service headquarters.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeZt6pKqFsQZkGxZn4i1sXqtd6-hqF7OgfY5VZoCh3OeD5aimQ5VcECcQLlmVJe6s5cBnLmKHf6dnyhV0BppAGChl7SH8m91SvaEasT2MG3nC-uhUVipabgJz59hEFGa7x3CM4=w408-h544-k-no",
+    "maps_url": "https://maps.google.com/?q=Ventuno+Helsinki",
+    "dietary": [
+      "Vegetarian",
+      "Gluten-Free"
+    ],
+    "pet_friendly": false
+  },
+  {
+    "name": "Via Tribunali",
+    "cuisine": "Italian",
+    "neighborhood": "City Centre",
+    "price_level": 2,
+    "vegetarian_options": true,
+    "ambiance": [
+      "casual"
+    ],
+    "description": "Traditional Neapolitan wood-fired pizza certified by the Verace Pizza Napoletana association.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfauVO-vjSymyq1CNiHL3WOObc1AjGbHRmJmhCGJyhSnx0tQem1FbPx5TSFM3fWsYAMsEn9Z3jNl4SFYVacXJpeqlIPrs3B7J4zUO_T8JqpQlkAwCHvt-IW5kbjRLHL37zjsSjmgQ=w408-h408-k-no",
+    "maps_url": "https://maps.google.com/?q=Via+Tribunali+Helsinki",
+    "dietary": [
+      "Vegetarian",
+      "Gluten-Free"
+    ],
+    "pet_friendly": true
+  },
+  {
+    "name": "Café Bar No 9",
+    "cuisine": "International",
+    "neighborhood": "City Centre",
+    "price_level": 1,
+    "vegetarian_options": true,
+    "ambiance": [
+      "casual"
+    ],
+    "description": "An iconic bohemian institution since 1996 serving hearty plates, wok dishes, and burgers in a buzzy atmosphere.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcLvqI35ruIRJj1gc56g622yknPR0qA_E5GWWiievHiSSo2uaDLM6LfYChLhFH77Z7ak8_6VXg5xOAh-jW_zUsXblB7Cy068WlC-8aI3IAmni-jhgoMcjLglCz0R6aSrT18WQmu-A=w408-h306-k-no",
+    "maps_url": "https://maps.google.com/?q=Cafe+Bar+No+9+Helsinki",
+    "dietary": [
+      "Vegetarian"
+    ],
+    "pet_friendly": true
+  },
+  {
+    "name": "Allas Seagrill",
+    "cuisine": "Seafood",
+    "neighborhood": "City Centre",
+    "price_level": 2,
+    "vegetarian_options": true,
+    "ambiance": [
+      "casual"
+    ],
+    "description": "Seaside dining next to Market Square offering wonderful harbor views and fresh Nordic dishes.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfdwsU2-PHZau1xxibDMBeaCgRDSquLL3E2GA2FkDA7G8EKeLpJroWFWqmLygOJ6lbvWv3SuQHl3N0IFeeT3TcRzGJv_y2H9n6LvSQh9cTD7gMc9s_bXmNjj3d14FCdXimduSUQ3Q=w408-h288-k-no",
+    "maps_url": "https://maps.google.com/?q=Allas+Seagrill+Helsinki",
+    "dietary": [
+      "Vegetarian",
+      "Gluten-Free",
+      "Dairy-Free"
+    ],
+    "pet_friendly": true
+  },
+  {
+    "name": "Löyly Restaurant",
+    "cuisine": "Finnish",
+    "neighborhood": "Hernesaari",
+    "price_level": 2,
+    "vegetarian_options": true,
+    "ambiance": [
+      "casual",
+      "cozy"
+    ],
+    "description": "An architectural marvel right on the Baltic shoreline serving Finnish comfort foods, burgers, and fresh local plates.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeE7ONY9qMlxUVnZ5b0GxfksF8hqdS6ExL_6a34oTM1aEYPzvB3ZQpNXvYbNTn16gaP8LYoSpL0WRxUQm7rmUUJxeN0o-FCvUZUhz4BBPo5USa3UW4uaufGahGjLrAhiwTrfgMA=w408-h272-k-no",
+    "maps_url": "https://maps.google.com/?q=Loyly+Helsinki",
+    "dietary": [
+      "Vegetarian"
+    ],
+    "pet_friendly": true
+  },
+  {
+    "name": "Finlandia Bistro",
+    "cuisine": "Mediterranean-Finnish",
+    "neighborhood": "Töölö",
+    "price_level": 3,
+    "vegetarian_options": true,
+    "ambiance": [
+      "cozy"
+    ],
+    "description": "Located inside the iconic Alvar Aalto-designed Finlandia Hall, pairing local Finnish ingredients with Mediterranean nuances.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd5W5TsFdyrINV9Fpi-qNc9qOLT9bwbGfQLHnpf_s2TxbrHCrkbYvOxBXy_m62H2a8ux_P5z9kroA9Hc7-Fq_ImoT9DsqyorxMhe6vX1lEAnSbrZsmHVO-xlWqaaW7zXFNFUf9iVK0Anzs=w426-h240-k-no",
+    "maps_url": "https://maps.google.com/?q=Finlandia+Bistro+Helsinki",
+    "dietary": [
+      "Vegetarian"
+    ],
+    "pet_friendly": false
+  },
+  {
+    "name": "Krog Roba",
+    "cuisine": "Nordic",
+    "neighborhood": "City Centre",
+    "price_level": 3,
+    "vegetarian_options": true,
+    "ambiance": [
+      "cozy"
+    ],
+    "description": "A stylish restaurant focusing on honest Nordic flavors with clean designs and cozy lighting.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfmAMHnWzrVmDQs_3KPlcuVUvQhj7HzvPaxEai3n7hZAFz3Ohp2r5ti-MKSTRwlPAfI5hq54ZLeloEVjxzJ9nr8TzP3duA4Wbn7zswDwq4ZrcXTKKXY-QzfJSHTRjkpKqhgz-qa=w408-h275-k-no",
+    "maps_url": "https://maps.google.com/?q=Krog+Roba+Helsinki",
+    "dietary": [
+      "Vegetarian"
+    ],
+    "pet_friendly": false
+  },
+  {
+    "name": "Ravintola Nokka",
+    "cuisine": "Modern Finnish",
+    "neighborhood": "Katajanokka",
+    "price_level": 3,
+    "vegetarian_options": true,
+    "ambiance": [
+      "cozy"
+    ],
+    "description": "A strict champion of organic, traceable, and wild Finnish forest and lake ingredients housed in an old customs warehouse.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfryIgkvQLN-jH0sahciuQhbFXj-mySsgsqbPgocK7A83acd_yD-jnoO1WFSMi8NjVaus9ewLceWK3by_AHcEzP3s_MFJfMrJo7EMRUmVWZJtAyjAd3LyVScuLOsEBGe-M3_MGH=w408-h510-k-no",
+    "maps_url": "https://maps.google.com/?q=Ravintola+Nokka+Helsinki",
+    "dietary": [
+      "Vegetarian"
+    ],
+    "pet_friendly": false
+  },
+  {
+    "name": "Olo",
+    "cuisine": "Modern Nordic",
+    "neighborhood": "City Centre",
+    "price_level": 3,
+    "vegetarian_options": true,
+    "ambiance": [
+      "cozy"
+    ],
+    "description": "A Michelin-starred restaurant offering imaginative, playful tasting menus rooted in Scandinavian nature.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe4uqqkYml7xysOkXcfzKhNma3n-RAPUUGonMIt6-nUKDk-lpqziS0oUMBpcogiOn6L9_HoQilBSloiyWv4n5HuWn3zRgRv_M2NUsszh258Klimo5shzgY6eh-mKJ5f-w0jwVG7rA33rEgH=w426-h240-k-no",
+    "maps_url": "https://maps.google.com/?q=Restaurant+Olo+Helsinki",
+    "dietary": [
+      "Vegetarian",
+      "Gluten-Free"
+    ],
+    "pet_friendly": false
+  },
+  {
+    "name": "Demo",
+    "cuisine": "Modern European",
+    "neighborhood": "Ruoholahti",
+    "price_level": 3,
+    "vegetarian_options": true,
+    "ambiance": [
+      "cozy",
+      "modern",
+      "fine dining"
+    ],
+    "description": "A long-standing Michelin-starred favorite providing relaxed yet exceptionally high-level fine dining.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLehEIWOccG2tU_ZCnDzD4cqYCZO86ZtdTcUnHrkonXukNmM030Qx71NfP5334W0aVYaaYV7DL_64X9uEwSisR_tYTanDyE8wJog4bs_qZTyT8S2bJQcs_b8wjd2p_O2o6NSyW3Q=w408-h272-k-no",
+    "maps_url": "https://maps.google.com/?q=Restaurant+Demo+Helsinki",
+    "dietary": [
+      "Vegetarian",
+      "Gluten-Free"
+    ],
+    "pet_friendly": false
+  },
+  {
+    "name": "Ravintola Kosmos",
+    "cuisine": "Finnish-Classic",
+    "neighborhood": "City Centre",
+    "price_level": 3,
+    "vegetarian_options": true,
+    "ambiance": [
+      "cozy"
+    ],
+    "description": "A legendary historic Helsinki dining institution operating since 1924, favored by artists, writers, and cultural icons.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe-qEO84b5cDPYzVFxpUdv0ei5paNOYuYqk9V6-GtNWiFgVLgpWrny4TEuW8j5u6_o8YeSblSQ2KFwpK-jx_oFSTxzI3JM4pt93rIxxbuuW-Z1hN0PDZAzqbkNDhSMu5_Mn7dvA=w536-h240-k-no",
+    "maps_url": "https://maps.google.com/?q=Ravintola+Kosmos+Helsinki",
+    "dietary": [
+      "Vegetarian"
+    ],
+    "pet_friendly": false
+  },
+  {
+    "name": "Taquería El Rey",
+    "cuisine": "Mexican",
+    "neighborhood": "City Centre",
+    "price_level": 2,
+    "vegetarian_options": true,
+    "ambiance": [
+      "casual"
+    ],
+    "description": "Authentic Mexican street-style tacos, freshly made salsas, and vibrant flavors.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLftimQlR7N6KRDQtHrDtqHNoYjxaygzVjHEg5ewkx8EFKqblTTxTHFASRXl_7u3fqVIsa5CFmfjKqsRLPbZL6EF69XE02Em8H3NA__4kKqDIcu_Vnfeowu_nXi2E1sKqZDGMbCY=w408-h614-k-no",
+    "maps_url": "https://maps.google.com/?q=Taqueria+El+Rey+Helsinki",
+    "dietary": [
+      "Vegetarian"
+    ],
+    "pet_friendly": true
+  },
+  {
+    "name": "Pancho Villa",
+    "cuisine": "Mexican",
+    "neighborhood": "City Centre",
+    "price_level": 2,
+    "vegetarian_options": true,
+    "pet_friendly": true,
+    "dietary": [
+      "Vegetarian",
+      "Dairy-Free"
+    ],
+    "ambiance": [
+      "casual",
+      "family-friendly"
+    ],
+    "description": "A lively Tex-Mex and Mexican restaurant serving sizzling fajitas, burgers, burritos, and spicy wings in a casual atmosphere.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeH5nOySvbrJ9ppE2Yp4HvEtxO_3V3gnmKXy1ETrdU2sphWE2v91HS33bbGEruANb2BGZIaFenk_ZRjmJJP91xrRCcYpes-Xby3C1SbZONsz8yyCtgFYnCq9nt3IElNBhJq-ngcWw=w408-h306-k-no",
+    "maps_url": "https://www.google.com/maps/search/Pancho+Villa+Kluuvi"
+  }
+]
