@@ -167,15 +167,18 @@ def recommend(
         if skip:
             continue
 
-        rule_score = 0
+        # Base score of 1.0 ensures any restaurant passing hard filters
+        # (price, dietary, neighborhood, pet policy) is treated as a valid candidate
+        rule_score = 1.0
+
         if cuisine != "Any" and restaurant["cuisine"].lower() == cuisine.lower():
-            rule_score += 2
+            rule_score += 2.0
 
         restaurant_ambiance = [
             tag.lower() for tag in restaurant.get("ambiance", [])
         ]
         if ambiance and ambiance.lower() in restaurant_ambiance:
-            rule_score += 2
+            rule_score += 1.0
 
         rank = semantic_ranks.get(restaurant["name"])
         if rank is None:
@@ -290,7 +293,9 @@ if request:
     )
 
 if st.button("Find restaurants", type="primary", key="find_restaurants_btn"):
-    if request.strip():
+    is_text_search = bool(request.strip())
+
+    if is_text_search:
         try:
             with st.spinner("Understanding your request with Gemini..."):
                 preferences = extract_preferences(request, restaurants)
@@ -310,7 +315,7 @@ if st.button("Find restaurants", type="primary", key="find_restaurants_btn"):
     st.session_state.search_preferences = preferences
 
     semantic_ranks = {}
-    if request.strip():
+    if is_text_search:
         try:
             semantic_matches = search_restaurants(
                 request,
@@ -335,8 +340,12 @@ if st.button("Find restaurants", type="primary", key="find_restaurants_btn"):
         semantic_ranks=semantic_ranks,
     )
 
-    # Filter out zero-score results so completely unrelated restaurants aren't treated as matches
-    st.session_state.search_results = [item for item in raw_results if item[0] > 0.0]
+    # When natural language text search is used and no semantic matches occur and cuisine is Any,
+    # treat it as an out-of-scope query. For sidebar browsing, keep all passing candidates (score > 0).
+    if is_text_search and preferences["cuisine"] == "Any" and not semantic_ranks:
+        st.session_state.search_results = []
+    else:
+        st.session_state.search_results = [item for item in raw_results if item[0] > 0.0]
 
     if st.session_state.search_results:
         try:
@@ -354,7 +363,6 @@ if st.button("Find restaurants", type="primary", key="find_restaurants_btn"):
 if st.session_state.search_results is not None:
     preferences = st.session_state.search_preferences
    
-    # Handle case where no valid matching restaurants are found
     if not st.session_state.search_results:
         st.warning("🚫 No restaurants match your specific request in our database.")
         st.info("Try searching for a different cuisine, neighborhood, or broadening your preferences!")
@@ -387,7 +395,6 @@ if st.session_state.search_results is not None:
                     with col_title:
                         st.subheader(name)
                     with col_fav:
-                        # Unique key using index and restaurant name
                         if st.button(fav_label, key=f"fav_btn_{idx}_{name}"):
                             if is_fav:
                                 st.session_state.favorites.remove(name)
