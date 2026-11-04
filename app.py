@@ -323,7 +323,7 @@ if st.button("Find restaurants", type="primary", key="find_restaurants_btn"):
         except Exception as error:
             st.warning(f"Semantic search unavailable; using rule-based ranking. Details: {error}")
 
-    st.session_state.search_results = recommend(
+    raw_results = recommend(
         restaurants,
         cuisine=preferences["cuisine"],
         neighborhood=preferences["neighborhood"],
@@ -335,6 +335,9 @@ if st.button("Find restaurants", type="primary", key="find_restaurants_btn"):
         semantic_ranks=semantic_ranks,
     )
 
+    # Filter out zero-score results so completely unrelated restaurants aren't treated as matches
+    st.session_state.search_results = [item for item in raw_results if item[0] > 0.0]
+
     if st.session_state.search_results:
         try:
             with st.spinner("Writing AI recommendation summary..."):
@@ -343,47 +346,54 @@ if st.button("Find restaurants", type="primary", key="find_restaurants_btn"):
                 )
         except Exception as error:
             st.session_state.search_explanation = f"Could not generate an explanation: {error}"
+    else:
+        st.session_state.search_explanation = None
 
 
 # --- Render Results from Session State ---
 if st.session_state.search_results is not None:
     preferences = st.session_state.search_preferences
    
-    if st.session_state.search_explanation:
-        st.info(st.session_state.search_explanation)
+    # Handle case where no valid matching restaurants are found
+    if not st.session_state.search_results:
+        st.warning("🚫 No restaurants match your specific request in our database.")
+        st.info("Try searching for a different cuisine, neighborhood, or broadening your preferences!")
+    else:
+        if st.session_state.search_explanation:
+            st.info(st.session_state.search_explanation)
 
-    st.subheader(f"Results ({len(st.session_state.search_results)} found)")
+        st.subheader(f"Results ({len(st.session_state.search_results)} found)")
 
-    for idx, (score, restaurant) in enumerate(st.session_state.search_results):
-        with st.container():
-            cols = st.columns([1, 2])
-            with cols[0]:
-                img_url = restaurant.get("image_url")
-                if img_url:
-                    st.image(img_url, use_container_width=True)
-                else:
-                    st.image(
-                        "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80",
-                        use_container_width=True,
-                    )
-            
-            with cols[1]:
-                name = restaurant["name"]
+        for idx, (score, restaurant) in enumerate(st.session_state.search_results):
+            with st.container():
+                cols = st.columns([1, 2])
+                with cols[0]:
+                    img_url = restaurant.get("image_url")
+                    if img_url:
+                        st.image(img_url, use_container_width=True)
+                    else:
+                        st.image(
+                            "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80",
+                            use_container_width=True,
+                        )
                 
-                is_fav = name in st.session_state.favorites
-                fav_label = "❤️ Favorited" if is_fav else "🤍 Add to Favorites"
-                
-                col_title, col_fav = st.columns([3, 1])
-                with col_title:
-                    st.subheader(name)
-                with col_fav:
-                    # Unique key using index and restaurant name
-                    if st.button(fav_label, key=f"fav_btn_{idx}_{name}"):
-                        if is_fav:
-                            st.session_state.favorites.remove(name)
-                        else:
-                            st.session_state.favorites.add(name)
-                        st.rerun()
+                with cols[1]:
+                    name = restaurant["name"]
+                    
+                    is_fav = name in st.session_state.favorites
+                    fav_label = "❤️ Favorited" if is_fav else "🤍 Add to Favorites"
+                    
+                    col_title, col_fav = st.columns([3, 1])
+                    with col_title:
+                        st.subheader(name)
+                    with col_fav:
+                        # Unique key using index and restaurant name
+                        if st.button(fav_label, key=f"fav_btn_{idx}_{name}"):
+                            if is_fav:
+                                st.session_state.favorites.remove(name)
+                            else:
+                                st.session_state.favorites.add(name)
+                            st.rerun()
 
                 st.caption(f"Hybrid match score: {score:.1f}")
                 price_symbols = "€" * restaurant["price_level"]
@@ -407,4 +417,3 @@ if st.session_state.search_results is not None:
             st.divider()
 elif st.session_state.search_results is None:
     st.info("Use the filters or search bar above and click 'Find restaurants' to start exploring.")
-    
