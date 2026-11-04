@@ -1110,5 +1110,224 @@
     "description": "A lively Tex-Mex and Mexican restaurant serving sizzling fajitas, burgers, burritos, and spicy wings in a casual atmosphere.",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeH5nOySvbrJ9ppE2Yp4HvEtxO_3V3gnmKXy1ETrdU2sphWE2v91HS33bbGEruANb2BGZIaFenk_ZRjmJJP91xrRCcYpes-Xby3C1SbZONsz8yyCtgFYnCq9nt3IElNBhJq-ngcWw=w408-h306-k-no",
     "maps_url": "https://www.google.com/maps/search/Pancho+Villa+Kluuvi"
+  },
+  {
+  "name": "Levant",
+  "cuisine": "Middle Eastern",
+  "neighborhood": "Punavuori",
+  "price_level": 1,
+  "vegetarian_options": true,
+  "pet_friendly": true,
+  "dietary": [
+    "Vegetarian",
+    "Vegan",
+    "Halal"
+  ],
+  "ambiance": [
+    "cozy",
+    "casual"
+  ],
+  "description": "Authentic, vibrant Middle Eastern street food renowned for freshly rolled wraps, crispy falafel, homemade hummus, and generous mezze plates in a relaxed setting.",
+  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLek2DZacnOC5lo2hfS600c5nSwEk68Br72Y1gQQRWsCu37VsW1-dOiOaTvdEMoNol9W-aUVFqrxJKehvD6iltkfRamvjd8ch7FIzKD1dSklMJSHJnj2C8z37HKQekcfGYdNVjHX=w408-h406-k-no",
+  "maps_url": "https://maps.google.com/?q=Levant+Bulevardi+Helsinki"
+},
+{
+    "name": "Elias Döner REDI",
+    "cuisine": "Middle Eastern",
+    "neighborhood": "Kalasatama",
+    "price_level": 1,
+    "vegetarian_options": true,
+    "pet_friendly": true,
+    "dietary": [
+      "Halal",
+      "Vegetarian"
+    ],
+    "ambiance": [
+      "casual"
+    ],
+    "description": "Berlin-style gourmet döner spot inside Mall of REDI featuring seasoned chicken and beef döner, fresh crunchy seasonal salads, homemade garlic sauces, and falafel platters.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfwjrgamyD3vlPwi1ZSuCBbdNR8PycI2NjT1hfNDzFTFiZM2UoyiJvhb_PTWDuXNZh8ewPuHpRtFbshOvzTHGmfFDltdtPtukBPcDSJwH44YVC5Uiy6U07WnSGgKKl-wizpvaD0sKucpuZW=w426-h240-k-no",
+    "maps_url": "https://maps.google.com/?q=Elias+Döner+Kebab+REDI+Helsinki"
+  },
+  {
+    "name": "Hungry Hub Vuosaari",
+    "cuisine": "American",
+    "neighborhood": "Vuosaari",
+    "price_level": 1,
+    "vegetarian_options": true,
+    "pet_friendly": false,
+    "dietary": [
+      "Halal"
+    ],
+    "ambiance": [
+      "casual"
+    ],
+    "description": "Popular East Helsinki fast-casual diner known for crispy fried chicken boxes, hot wings, loaded fries, and juicy smash-style beef burgers.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfD8deXO10A6TUAS195PKBFsF5EoobU8SxsC1a9qq5OsY9WIKE-EO0X4uAuyHEQAgOEcfaXiWO_YKZNOw5yCOv_dF2HeM-gcrpP14s5AG85OUQlhS0hLxBKzYgxfOQe0eElYFAYwRhEzOR8=w426-h240-k-no",
+    "maps_url": "https://maps.google.com/?q=Hungry+Hub+Vuosaari+Helsinki"
+  },
+  {
+    "name": "Elias Döner Kebab Vuosaari",
+    "cuisine": "Middle Eastern",
+    "neighborhood": "Vuosaari",
+    "price_level": 1,
+    "vegetarian_options": true,
+    "pet_friendly": false,
+    "dietary": [
+      "Halal",
+      "Vegetarian"
+    ],
+    "ambiance": [
+      "casual"
+    ],
+    "description": "Fast-casual Berlin-style döner shop located at Kahvipavunkuja in Vuosaari, serving generous portions of shaved beef döner, crispy chicken döner, fresh salad boxes, loaded fries, and falafel.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf1awlBOadX2fDiuPQG60d7co9g28-W6_6J-SIVzec2s6vScfjkr-H-U6rv19tvaJNPmyvf2q622_VjbQ1yk9_K7oixP0vscV6ppP--F9-_htMMaagZQWCvmUfFmG5ZiWdu_lqeR_Mm4NU=w408-h544-k-no",
+    "maps_url": "https://maps.google.com/?q=Elias+Döner+Kebab+Vuosaari+Helsinki"
+  },
+  {
+    "name": "Yamanoon",
+    "cuisine": "Middle Eastern",
+    "neighborhood": "Malmi",
+    "price_level": 2,
+    "vegetarian_options": true,
+    "pet_friendly": false,
+    "dietary": [
+      "Halal",
+      "Vegetarian"
+    ],
+    "ambiance": [
+      "casual",
+      "cozy"
+    ],
+    "description": "Authentic Yemeni restaurant right by Malmi station specializing in slow-cooked mandi lamb and chicken, savory aqdah, freshly baked flatbreads, and traditional sahawiq sauce.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfPSAI_63cmduSgmIhzshlRPduhJN4LlHAZC1GKGJriP-ytv0thz9uai_mi2-L_GFX7sVS7aLVY0VFVhEC0uSe8GnoK8RpIzcfZld6EBrlZzE-oo5eSuvF01nbh0jang0knlRvxRAozn0k=w426-h240-k-no",
+    "maps_url": "https://maps.google.com/?q=Yamanoon+Malmi+Helsinki"
+  },
+  {
+    "name": "Malacca Kaari",
+    "cuisine": "Malaysian",
+    "neighborhood": "Kannelmäki",
+    "price_level": 2,
+    "vegetarian_options": true,
+    "pet_friendly": true,
+    "dietary": [
+      "Halal",
+      "Vegetarian"
+    ],
+    "ambiance": [
+      "casual"
+    ],
+    "description": "Authentic Malaysian restaurant located in Kauppakeskus Kaari featuring an all-day buffet and à la carte dishes like slow-cooked beef rendang, spicy laksa soup, and sambal chicken using 100% Halal meat.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfp2hWwY9SUvGVB7fwV8b88zi-UpR8eO22AwiuEzr1K0sp2NLfCTEuJdexxFXBaxGOqM_o2tkBVVdl_BWqORGS0xVc3DSm9IRuizEbq4JCyFfrMRIdzcmwJzuFQ9p2FrCDvYGdCGG40cOc=w408-h306-k-no",
+    "maps_url": "https://maps.google.com/?q=Malacca+Kaari+Helsinki"
+  },
+  {
+    "name": "Picnic Kaari",
+    "cuisine": "Cafe",
+    "neighborhood": "Kannelmäki",
+    "price_level": 1,
+    "vegetarian_options": true,
+    "pet_friendly": true,
+    "dietary": [
+      "Vegetarian",
+      "Gluten-Free"
+    ],
+    "ambiance": [
+      "casual"
+    ],
+    "description": "Popular Finnish fast-casual café on the 1st floor of Mall Kaari, known for freshly toasted baguettes, oven-baked hot potatoes with fillings, fresh salads, and specialty coffees.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfhBTN69t0GSlO3FAmIcOZkJrR-uBzrgn4yfhJzyA4EMLT-oB9lWrw5mfF3q1G73fyukfGkimSHJn3hlc335Ou6wP_vgLPNA8vrHXduGWTvhzlERR-0xuAl4gkGUv-pM_5BBv0Ipxff5VoH=w408-h280-k-no",
+    "maps_url": "https://maps.google.com/?q=Picnic+Kauppakeskus+Kaari+Helsinki"
+  },
+  {
+    "name": "Seoul Good REDI",
+    "cuisine": "Korean",
+    "neighborhood": "Kalasatama",
+    "price_level": 2,
+    "vegetarian_options": true,
+    "pet_friendly": true,
+    "dietary": [
+      "Halal"
+    ],
+    "ambiance": [
+      "casual"
+    ],
+    "description": "Vibrant Korean buffet spot inside Mall of REDI specializing in all-you-can-eat Korean fried chicken (KFC) in assorted glazes, tteokbokki, japchae, fresh banchan salads, and house kimchi.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcLE121pMaACH9fS-28iNYEDVQNHTHJ0A1xGqzCGnneBhbmg0GyqKAjOqmLdhYCVvPbS899mL5FL2rPLwgn_AHxtGqOgVzE53R6URv_FL5_qEt8QreB_syDfPky3SltvSvExeG3LMAm_7Ib=w408-h306-k-no",
+    "maps_url": "https://maps.google.com/?q=Seoul+Good+REDI+Helsinki"
+  },
+  {
+    "name": "Seoul Good Itis",
+    "cuisine": "Korean",
+    "neighborhood": "Itäkeskus",
+    "price_level": 2,
+    "vegetarian_options": true,
+    "pet_friendly": true,
+    "dietary": [
+      "Halal"
+    ],
+    "ambiance": [
+      "casual"
+    ],
+    "description": "Korean fried chicken and street food buffet located on the 2nd floor in the EATIS food court of Itis shopping center, offering crispy glazed chicken, hot sides, soups, and traditional Korean salads.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeAiMRNEPp-jL2Wyv4rVL6J-6ajRsnkDdpPRmjtKbs1gqi6wIsrHpjoKK5dZ8AjIwCoVOnuStz8o6Z4p9CfeEa0ZCyGpVnWED8kCeqU96MJ-6MQmTO77xxHl9zvq5eDBPR1C02zM8i8Is4=w408-h305-k-no",
+    "maps_url": "https://maps.google.com/?q=Seoul+Good+Itis+Helsinki"
+  },
+  {
+    "name": "Taste of Uyghur",
+    "cuisine": "Uyghur",
+    "neighborhood": "Sörnäinen",
+    "price_level": 2,
+    "vegetarian_options": true,
+    "pet_friendly": false,
+    "dietary": [
+      "Halal",
+      "Vegetarian"
+    ],
+    "ambiance": [
+      "casual",
+      "cozy"
+    ],
+    "description": "Authentic Silk Road Uyghur kitchen in Sörnäinen famous for freshly hand-pulled Laghman noodles, savory Gösh Nan flatbreads, steamed manta dumplings, and cumin-spiced grilled lamb skewers.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfRHYGPj1mN19eIYBLi0M0Y9jwgE5_V5omViDQlabyIuJMn6UKw9hVsHP5PmVzgtVwRGbdQFbDgTUHt-252lGadrpOoE8k17vkjXRiXfEp8PUrmcroJkupjTr8d9R0xvuVG7vSlEv3-1lYd=w408-h544-k-no",
+    "maps_url": "https://maps.google.com/?q=Taste+of+Uyghur+Vilhonvuorenkatu+Helsinki"
+  },
+  {
+    "name": "Mashiro Pukinmäki",
+    "cuisine": "Japanese",
+    "neighborhood": "Pukinmäki",
+    "price_level": 2,
+    "vegetarian_options": true,
+    "pet_friendly": false,
+    "dietary": [
+      "Vegetarian",
+      "Gluten-Free"
+    ],
+    "ambiance": [
+      "casual",
+      "cozy"
+    ],
+    "description": "Intimate Japanese restaurant located near Pukinmäki station on Unikkotie, serving freshly prepared sushi platters, steaming ramen, udon noodle bowls, poke bowls, and savory teriyaki dishes.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfOJRQN1fcr6hgTd817t5ITJ8uJIjrfUjy7Jtx3OttXT4GVOfW_R-3mwd8mMba2gADdgfbTZhAZUAxneHsAsEavRxthUqIB6ntGAAm2dLwZLNE6UJLqp9OJBcQ29g-maQ3NjImuEA=w408-h544-k-no",
+    "maps_url": "https://maps.google.com/?q=Mashiro+Pukinmäki+Unikkotie+Helsinki"
+  },
+  {
+    "name": "Mashiro Vallila",
+    "cuisine": "Japanese",
+    "neighborhood": "Vallila",
+    "price_level": 2,
+    "vegetarian_options": true,
+    "pet_friendly": false,
+    "dietary": [
+      "Vegetarian",
+      "Gluten-Free"
+    ],
+    "ambiance": [
+      "casual",
+      "cozy"
+    ],
+    "description": "Cozy Japanese eatery situated on Mäkelänkatu in Vallila, offering open-kitchen dining with a wide selection of handmade nigiri, maki rolls, rich noodle soups, donburi rice bowls, and pan-fried gyoza.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf4TntjrgmJghhDNwaLyXGiI-SkX4lDhoDs6dONeWcLmKkO9-lltV2TrdtujMeax1aOq8s4Qwrp4A1AH7CwTW7PyfE0sCtCh-eW_H6U9keNUxqEnpaOSQzRnvN2j-rCVlvmo5E=w408-h612-k-no",
+    "maps_url": "https://maps.google.com/?q=Mashiro+Vallila+Mäkelänkatu+Helsinki"
   }
 ]
