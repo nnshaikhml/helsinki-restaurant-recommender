@@ -1329,5 +1329,82 @@
     "description": "Cozy Japanese eatery situated on Mäkelänkatu in Vallila, offering open-kitchen dining with a wide selection of handmade nigiri, maki rolls, rich noodle soups, donburi rice bowls, and pan-fried gyoza.",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf4TntjrgmJghhDNwaLyXGiI-SkX4lDhoDs6dONeWcLmKkO9-lltV2TrdtujMeax1aOq8s4Qwrp4A1AH7CwTW7PyfE0sCtCh-eW_H6U9keNUxqEnpaOSQzRnvN2j-rCVlvmo5E=w408-h612-k-no",
     "maps_url": "https://maps.google.com/?q=Mashiro+Vallila+Mäkelänkatu+Helsinki"
+  },
+  {
+    "name": "Olivia Central Station",
+    "cuisine": "Italian",
+    "neighborhood": "City Centre",
+    "price_level": 2,
+    "vegetarian_options": true,
+    "pet_friendly": true,
+    "dietary": [
+      "Vegetarian",
+      "Gluten-Free"
+    ],
+    "ambiance": [
+      "cozy",
+      "casual"
+    ],
+    "description": "Vibrant Italian restaurant located in the historic former ticket hall of Helsinki Central Railway Station, serving Milanese-inspired wood-fired sourdough pizzas, fresh pasta, antipasti, and quality Italian wines.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeZub9a3UtNx5jizDc-SHOFtLkvY8-T_YiSDKXs7bR43SIO19XMQlQGP9XlxCpWWPNApezcM1vMpTz5_nuJXFCIVHKC4ml58CXn7y3pqAYGaNOIIDn1_PNp1S3UcsnBn6UQFvjZPA=w408-h272-k-no",
+    "maps_url": "https://maps.google.com/?q=Olivia+Central+Station+Helsinki"
+  },
+  {
+    "name": "Vapiano Mikonkatu",
+    "cuisine": "Italian",
+    "neighborhood": "City Centre",
+    "price_level": 2,
+    "vegetarian_options": true,
+    "pet_friendly": false,
+    "dietary": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten-Free"
+    ],
+    "ambiance": [
+      "casual"
+    ],
+    "description": "Spacious, relaxed Italian fast-casual spot on Mikonkatu where chefs prepare customized handmade fresh pasta, crisp stone-baked pizzas, and hearty salads right before your eyes at dedicated cooking stations.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd9KqYkdAfGgFMf6858cTQ3923bNYF30o26aippRt_ajLohwTo-cBalQIbehiaSWKZGZzGyyQhk9REpbqLEs-UBPhteTshTP_tkQAtt695jDYrCh20HnSs3cDvgewmKaPfs9lYD=w408-h271-k-no",
+    "maps_url": "https://maps.google.com/?q=Vapiano+Mikonkatu+Helsinki"
+  },
+  {
+    "name": "Tawook Lab Citycenter",
+    "cuisine": "Middle Eastern",
+    "neighborhood": "City Centre",
+    "price_level": 2,
+    "vegetarian_options": true,
+    "pet_friendly": false,
+    "dietary": [
+      "Halal",
+      "Vegetarian",
+      "Vegan"
+    ],
+    "ambiance": [
+      "casual",
+      "cozy"
+    ],
+    "description": "Contemporary Syrian eatery in Citykäytävä / Citycenter serving marinated shish tawook chicken platters, spiced kofta, loaded wraps, fresh house-made hummus, and crispy falafel.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfaPuuzVzaUub-i6o9U5wzmCfD5u8Y9_osJZ6y42YJCZGVrF_5js11yksPjN67jeN3lRBDMXqN7FTEl-zrpJdgxxgSPGYGCPmSg_s3zaVi0jhXW33aJ7eL3NxWb54FpSobe4p9eDtQM_tBt=w408-h306-k-no",
+    "maps_url": "https://maps.google.com/?q=Tawook+Lab+Citykaytava+Aleksanterinkatu+21+Helsinki"
+  },
+  {
+    "name": "Tawook Lab Kluuvi",
+    "cuisine": "Middle Eastern",
+    "neighborhood": "Kluuvi",
+    "price_level": 2,
+    "vegetarian_options": true,
+    "pet_friendly": true,
+    "dietary": [
+      "Halal",
+      "Vegetarian",
+      "Vegan"
+    ],
+    "ambiance": [
+      "casual"
+    ],
+    "description": "Modern Syrian street-food kitchen on the 2nd floor of Kluuvi Shopping Centre featuring charcoal-seasoned tawook skewers, upside-down kofta bowls, batata harra, and vibrant mezze platters.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf7LVN0Sk8YC2KbK55rBEN5cG8tLoHcSgfXtgBG02u-u_IDikoOkymKGvoJR5VB1kAmBQs7wqAXYsP5xCnhGSdkn8tpDm7Afg8WnATmk8jvMSKFYe5G7inVBYQYJRQJFL77qO08xBoW2PrY=w408-h544-k-no",
+    "maps_url": "https://maps.google.com/?q=Tawook+Lab+Kluuvi+Helsinki"
   }
 ]
