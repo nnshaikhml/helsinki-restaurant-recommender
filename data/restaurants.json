@@ -1406,5 +1406,24 @@
     "description": "Modern Syrian street-food kitchen on the 2nd floor of Kluuvi Shopping Centre featuring charcoal-seasoned tawook skewers, upside-down kofta bowls, batata harra, and vibrant mezze platters.",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf7LVN0Sk8YC2KbK55rBEN5cG8tLoHcSgfXtgBG02u-u_IDikoOkymKGvoJR5VB1kAmBQs7wqAXYsP5xCnhGSdkn8tpDm7Afg8WnATmk8jvMSKFYe5G7inVBYQYJRQJFL77qO08xBoW2PrY=w408-h544-k-no",
     "maps_url": "https://maps.google.com/?q=Tawook+Lab+Kluuvi+Helsinki"
-  }
+  },
+  {
+  "name": "Deli Lunch Roihupelto",
+  "cuisine": "European",
+  "neighborhood": "Roihupelto",
+  "price_level": 1,
+  "vegetarian_options": true,
+  "pet_friendly": false,
+  "dietary": [
+    "Vegetarian",
+    "Gluten-Free",
+    "Halal"
+  ],
+  "ambiance": [
+    "casual"
+  ],
+  "description": "Busy weekday buffet restaurant in the Roihupelto industrial area serving wholesome Finnish and European home-style lunches (kotiruoka), grilled specials, a rich salad bar, fresh breads, and dessert coffee.",
+  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcUtQ67HJkZJmEeS4nYQPscmMnAdGF51vi8jTH8gBMZfGYKMRHJuKbSkj6SEVM5W6Fyf4YScIyfY_5Ii1WblvVvdejZrD5uJDgQdfnaMND6H9ugqYoVhwDo2tDyrzAacgeu6FDP9Ygo4hph=w408-h306-k-no",
+  "maps_url": "https://maps.google.com/?q=Deli+Lunch+Pulttitie+1+Helsinki"
+}
 ]
