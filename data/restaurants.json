@@ -1519,7 +1519,7 @@
       "casual",
       "cozy"
     ],
-    "description": "Vibrant Thai street kitchen situated on the 4th floor (Little Manhattan) of Mall of Tripla, serving authentic wok-tossed Pad Thai, spicy Tom Yum soups, rich panang curries, and crispy duck specials.",
+    "description": "Vibrant Thai street kitchen situated on the 2nd floor (Little Manhattan) of Mall of Tripla, serving authentic wok-tossed Pad Thai, spicy Tom Yum soups, rich panang curries, and crispy duck specials.",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeEVwl9ICyNU6o57AckZWb39kKXOpPwszP5yrZ48zP3OgYNQNFMQthBOnp52XcbUqMnTsnNX6f_coiEIkBy5adMgJwD3C36xqRuHpGhwUwB2w7BARo_xgGard3CIM_k52oyBKl7=w426-h240-k-no",
     "maps_url": "https://maps.google.com/?q=Bangkok+9+Mall+of+Tripla+Helsinki"
   },
@@ -1578,5 +1578,39 @@
   "description": "Fast-casual Middle Eastern eatery on the 2nd floor of Mall of Tripla serving Berlin-style beef and chicken döner kebabs, freshly wrapped durum, loaded fries, and vegetarian falafel plates with house garlic sauce.",
   "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe5Ah_wqIRb2F1-x32rcgiYdUdlCYJ_IdzcG_rDB8QHYoAwonqmVplZIjr2iKH2egFO9H5EhcFRtfIJleNOaJZoBj_CKFQNXi8J1xT2NE9LcjkNCLX18RtZa-dBusF-HAoCz_c=w408-h278-k-no",
   "maps_url": "https://maps.google.com/?q=Humuz+Doner+Mall+of+Tripla+Helsinki"
-}  
+}, 
+{
+    "name": "Dust & Fry Malmi",
+    "cuisine": "American",
+    "neighborhood": "Malmi",
+    "price_level": 1,
+    "vegetarian_options": true,
+    "pet_friendly": false,
+    "dietary": [
+      "Halal"
+    ],
+    "ambiance": [
+      "casual"
+    ],
+    "description": "Fast-casual fried chicken joint near Malmi station known for golden, crispy Halal fried chicken pieces, tenders, spicy wings, loaded waffle fries, and house dipping sauces.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf8kPZXOsZl4PYqgtm9GpIfNCP0_nOjzoszdJXIXBmOhyAJNxT0i06E0MKewSUwyMppqKKuwjKN2WX8gfreF5oJljf-ZHnyrfglvxCZhA7uZW-xdSvWpf0S18VsnXtkTuxFrsy3-xf28NGh=w408-h544-k-no",
+    "maps_url": "https://maps.google.com/?q=Dust+N+Fry+Malmi+Helsinki"
+  },
+  {
+    "name": "Dust & Fry Itäkeskus",
+    "cuisine": "American",
+    "neighborhood": "Itäkeskus",
+    "price_level": 1,
+    "vegetarian_options": true,
+    "pet_friendly": true,
+    "dietary": [
+      "Halal"
+    ],
+    "ambiance": [
+      "casual"
+    ],
+    "description": "Popular fast-casual spot inside Kauppakeskus Itis serving crunchy seasoned Halal fried chicken combos, chicken burgers, hot wings, and seasoned fries.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLerKCV8uZ_9efpWLycybIKGo6NMsEGIZcOjaVRSRMdeSJEzmj0rOeqGrW_4VDUJ2JXz4YpkpbruyjmVwCR3J42doW6V7mNrsalfRuJhdEJ6D4coJUT2airJWjYz_6zcCHUtBIrZrUT8zH-T=w408-h306-k-no",
+    "maps_url": "https://maps.google.com/?q=Dust+N+Fry+Itis+Itäkeskus+Helsinki"
+  }
 ]
