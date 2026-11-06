@@ -1095,7 +1095,7 @@
   {
     "name": "Pancho Villa",
     "cuisine": "Mexican",
-    "neighborhood": "City Centre",
+    "neighborhood": "Kluuvi",
     "price_level": 2,
     "vegetarian_options": true,
     "pet_friendly": true,
@@ -1425,5 +1425,158 @@
   "description": "Busy weekday buffet restaurant in the Roihupelto industrial area serving wholesome Finnish and European home-style lunches (kotiruoka), grilled specials, a rich salad bar, fresh breads, and dessert coffee.",
   "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcUtQ67HJkZJmEeS4nYQPscmMnAdGF51vi8jTH8gBMZfGYKMRHJuKbSkj6SEVM5W6Fyf4YScIyfY_5Ii1WblvVvdejZrD5uJDgQdfnaMND6H9ugqYoVhwDo2tDyrzAacgeu6FDP9Ygo4hph=w408-h306-k-no",
   "maps_url": "https://maps.google.com/?q=Deli+Lunch+Pulttitie+1+Helsinki"
-}
+},
+{
+    "name": "Bangkok 9 Citycenter",
+    "cuisine": "Thai",
+    "neighborhood": "City Centre",
+    "price_level": 2,
+    "vegetarian_options": true,
+    "pet_friendly": false,
+    "dietary": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten-Free"
+    ],
+    "ambiance": [
+      "casual",
+      "cozy"
+    ],
+    "description": "Popular modern Thai street food kitchen in Citycenter shopping passage serving fragrant Tom Yum soups, Pad Thai noodles, aromatic green and red curries, and crispy spring rolls.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc69MbNf0U1WS3pSIdwpvsHgtiEaGLF0UPY1K6sT5Cs-5IwTaFK5F0NPYkLxoYsMNFw01kOig3pumgqk0D8MogskPBw9pKXZSNicSLsE8OoJEVvYtMKE_4EqhP8Q7x-zUvb4OVcU0HI7Fin=w408-h307-k-no",
+    "maps_url": "https://maps.google.com/?q=Bangkok+9+Citycenter+Helsinki"
+  },
+  {
+    "name": "Friends & Brgrs Citycenter",
+    "cuisine": "American",
+    "neighborhood": "City Centre",
+    "price_level": 2,
+    "vegetarian_options": true,
+    "pet_friendly": true,
+    "dietary": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten-Free"
+    ],
+    "ambiance": [
+      "casual"
+    ],
+    "description": "Finnish smash burger spot located in the central station area on Aleksanterinkatu/Kaivokatu, using freshly ground domestic beef, house-baked brioche buns, triple-cooked fries, and vegan burger alternatives.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfGFI_ck_TbiBcBExyqfhfHJkWkJNhvpNeXlMpZ7XCZ-NtSZC4hkJNj5bdMVN1AcjIh0OQWxzLoWU-urIQlr5EmwTNiHbKu1LBLZt9WuH6Cw9d2Lcf6aF6mJCh95RZbqxng5Rgw=w408-h306-k-no",
+    "maps_url": "https://maps.google.com/?q=Friends+and+Brgrs+Citycenter+Helsinki"
+  },
+  {
+    "name": "Base Camp Vuosaari",
+    "cuisine": "Nepalese",
+    "neighborhood": "Vuosaari",
+    "price_level": 2,
+    "vegetarian_options": true,
+    "pet_friendly": false,
+    "dietary": [
+      "Vegetarian",
+      "Gluten-Free"
+    ],
+    "ambiance": [
+      "casual",
+      "cozy"
+    ],
+    "description": "Welcoming Nepalese restaurant in Vuosaari (Columbus) featuring tandoori-baked naan, creamy butter chicken, lamb korma, steaming momo dumplings, and mild-to-spicy lentil curries.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcTHFw1WPP1eTul9Bb-5du_yvmrMDfskElWJV9qqbh-b-ac0ACn4YXo4YTRJ5EOMo9A7JJQC886LO9fdBjh8JRv37v7xYo7ly3sN9GG7WgfqF248Gfs8E8qyG6dj-pu0CeLQMYspFlRvKM=w408-h306-k-no",
+    "maps_url": "https://maps.google.com/?q=Ravintola+Base+Camp+Vuosaari+Helsinki"
+  },
+  {
+    "name": "Friends & Brgrs Kaari",
+    "cuisine": "American",
+    "neighborhood": "Kannelmäki",
+    "price_level": 2,
+    "vegetarian_options": true,
+    "pet_friendly": true,
+    "dietary": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten-Free"
+    ],
+    "ambiance": [
+      "casual"
+    ],
+    "description": "Handcrafted smash burgers and hand-cut fries served inside Kauppakeskus Kaari, prepared from scratch with Finnish meat, fresh produce, and house sauces in a dog-friendly mall setting.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcu50KiwCzkQ749g55GKR-hmEd-560CJvSHHKH3z5nbgEQDywFA2oqS1ghHRvUZa_Kkkz2ZpcAZOCKoTIVIlu_d4Mc0aO6GtEY7cheD6_1ZX7CmQT_jIjJ7-pkodO3OoufL2lEspQ=w426-h240-k-no",
+    "maps_url": "https://maps.google.com/?q=Friends+and+Brgrs+Kauppakeskus+Kaari+Helsinki"
+  },
+  {
+    "name": "Bangkok 9 Tripla",
+    "cuisine": "Thai",
+    "neighborhood": "Pasila",
+    "price_level": 2,
+    "vegetarian_options": true,
+    "pet_friendly": true,
+    "dietary": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten-Free"
+    ],
+    "ambiance": [
+      "casual",
+      "cozy"
+    ],
+    "description": "Vibrant Thai street kitchen situated on the 4th floor (Little Manhattan) of Mall of Tripla, serving authentic wok-tossed Pad Thai, spicy Tom Yum soups, rich panang curries, and crispy duck specials.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeEVwl9ICyNU6o57AckZWb39kKXOpPwszP5yrZ48zP3OgYNQNFMQthBOnp52XcbUqMnTsnNX6f_coiEIkBy5adMgJwD3C36xqRuHpGhwUwB2w7BARo_xgGard3CIM_k52oyBKl7=w426-h240-k-no",
+    "maps_url": "https://maps.google.com/?q=Bangkok+9+Mall+of+Tripla+Helsinki"
+  },
+  {
+    "name": "Pancho Villa Tripla",
+    "cuisine": "Mexican",
+    "neighborhood": "Pasila",
+    "price_level": 2,
+    "vegetarian_options": true,
+    "pet_friendly": true,
+    "dietary": [
+      "Vegetarian",
+      "Gluten-Free"
+    ],
+    "ambiance": [
+      "casual"
+    ],
+    "description": "Relaxed Tex-Mex restaurant on the 4th floor of Mall of Tripla renowned for generous portions of flame-grilled burgers, loaded nachos, sizzling fajita skillets, and house-made remu dip.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcZDB93YhBXAPNcinKkGydlA9FZzj0wfH9B-En7Q4SD7ZVmGbTckO93JMpboC0bVAT-ieOXAeZqhQ9fDcOnKxMudX1no7hxcvGdSRSBMookRgQoCRfXPMf4uTrLdB2g-UH-7Ub4Jpw8m1Jx=w408-h544-k-no",
+    "maps_url": "https://maps.google.com/?q=Pancho+Villa+Mall+of+Tripla+Helsinki"
+  },
+  {
+    "name": "The Avocado Cafeteria",
+    "cuisine": "Healthy food",
+    "neighborhood": "Pasila",
+    "price_level": 2,
+    "vegetarian_options": true,
+    "pet_friendly": true,
+    "dietary": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten-Free"
+    ],
+    "ambiance": [
+      "casual",
+      "cozy"
+    ],
+    "description": "Health-focused avocado specialty eatery on the 2nd floor of Mall of Tripla serving artfully styled avocado toasts, nourishing superfood poke bowls, fresh smoothies, and specialty coffee drinks.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe3re0GWfVQMbB06ksOkKV1XuccEGaYsfZZy8jQzqKOcy1EBwTNjelao0iYVxHR8CXG1MKLEpTWYBuTKOoi_xOz_4W7NvJbymZfyFbGvUejwl-y9O-r4VlMwDfPAXJqi8se79trb7DLIGfa=w408-h544-k-no",
+    "maps_url": "https://maps.google.com/?q=The+Avocado+Company+Mall+of+Tripla+Helsinki"
+  },
+  {
+  "name": "Humu'z Döner Tripla",
+  "cuisine": "Middle Eastern",
+  "neighborhood": "Pasila",
+  "price_level": 1,
+  "vegetarian_options": true,
+  "pet_friendly": true,
+  "dietary": [
+    "Halal",
+    "Vegetarian"
+  ],
+  "ambiance": [
+    "casual"
+  ],
+  "description": "Fast-casual Middle Eastern eatery on the 2nd floor of Mall of Tripla serving Berlin-style beef and chicken döner kebabs, freshly wrapped durum, loaded fries, and vegetarian falafel plates with house garlic sauce.",
+  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe5Ah_wqIRb2F1-x32rcgiYdUdlCYJ_IdzcG_rDB8QHYoAwonqmVplZIjr2iKH2egFO9H5EhcFRtfIJleNOaJZoBj_CKFQNXi8J1xT2NE9LcjkNCLX18RtZa-dBusF-HAoCz_c=w408-h278-k-no",
+  "maps_url": "https://maps.google.com/?q=Humuz+Doner+Mall+of+Tripla+Helsinki"
+}  
 ]
