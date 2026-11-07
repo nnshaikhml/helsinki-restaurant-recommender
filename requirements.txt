@@ -5,3 +5,4 @@ chromadb
 sentence-transformers
 requests
 python-dotenv
+streamlit-mic-recorder
