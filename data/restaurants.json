@@ -15,7 +15,9 @@
       "Vegetarian",
       "Vegan"
     ],
-    "pet_friendly": true
+    "pet_friendly": true,
+    "rating": 4.4,
+    "review_count": 2150
   },
   {
     "name": "Mei Lin Sichuan & Vegan Restaurant",
@@ -35,7 +37,9 @@
       "Halal",
       "Dairy-Free"
     ],
-    "pet_friendly": true
+    "pet_friendly": true,
+    "rating": 4.5,
+    "review_count": 890
   },
   {
     "name": "Ravintola Nolla",
@@ -52,7 +56,9 @@
     "dietary": [
       "Vegetarian"
     ],
-    "pet_friendly": false
+    "pet_friendly": false,
+    "rating": 4.6,
+    "review_count": 1420
   },
   {
     "name": "Ravintola Hills Dumplings",
@@ -70,7 +76,9 @@
       "Vegetarian",
       "Dairy-Free"
     ],
-    "pet_friendly": true
+    "pet_friendly": true,
+    "rating": 4.5,
+    "review_count": 940
   },
   {
     "name": "Ravintola Tandoori Villa Kalasatama",
@@ -89,7 +97,9 @@
       "Vegetarian",
       "Halal"
     ],
-    "pet_friendly": false
+    "pet_friendly": false,
+    "rating": 4.3,
+    "review_count": 480
   },
   {
     "name": "Ravintola Tandoori Villa Postipuisto",
@@ -108,7 +118,9 @@
       "Vegetarian",
       "Halal"
     ],
-    "pet_friendly": false
+    "pet_friendly": false,
+    "rating": 4.2,
+    "review_count": 190
   },
   {
     "name": "Yemeni Ravintola",
@@ -127,7 +139,9 @@
       "Vegetarian",
       "Halal"
     ],
-    "pet_friendly": false
+    "pet_friendly": false,
+    "rating": 4.6,
+    "review_count": 310
   },
   {
     "name": "Ravintola Savotta",
@@ -144,7 +158,9 @@
     "dietary": [
       "Vegetarian"
     ],
-    "pet_friendly": false
+    "pet_friendly": false,
+    "rating": 4.4,
+    "review_count": 5200
   },
   {
     "name": "Ravintola Sea Horse",
@@ -162,7 +178,9 @@
       "Vegetarian",
       "Vegan"
     ],
-    "pet_friendly": false
+    "pet_friendly": false,
+    "rating": 4.3,
+    "review_count": 2900
   },
   {
     "name": "Farang",
@@ -181,7 +199,9 @@
       "Vegan",
       "Dairy-Free"
     ],
-    "pet_friendly": false
+    "pet_friendly": false,
+    "rating": 4.6,
+    "review_count": 2100
   },
   {
     "name": "Ravintola Tandoori Villa Metsälä",
@@ -199,7 +219,9 @@
       "Vegetarian",
       "Halal"
     ],
-    "pet_friendly": false
+    "pet_friendly": false,
+    "rating": 4.1,
+    "review_count": 150
   },
   {
     "name": "Farouge",
@@ -218,7 +240,9 @@
       "Vegan",
       "Halal"
     ],
-    "pet_friendly": false
+    "pet_friendly": false,
+    "rating": 4.4,
+    "review_count": 850
   },
   {
     "name": "ZhenHao DimSum",
@@ -238,7 +262,9 @@
       "Vegan",
       "Dairy-Free"
     ],
-    "pet_friendly": true
+    "pet_friendly": true,
+    "rating": 4.5,
+    "review_count": 420
   },
   {
     "name": "Luckiefun's Pasila",
@@ -256,7 +282,9 @@
       "Vegetarian",
       "Dairy-Free"
     ],
-    "pet_friendly": true
+    "pet_friendly": true,
+    "rating": 3.9,
+    "review_count": 780
   },
   {
     "name": "Luckiefun's Sushibuffet",
@@ -274,7 +302,9 @@
       "Vegetarian",
       "Dairy-Free"
     ],
-    "pet_friendly": true
+    "pet_friendly": true,
+    "rating": 4.0,
+    "review_count": 1850
   },
   {
     "name": "Luckiefun's Itis",
@@ -292,7 +322,9 @@
       "Vegetarian",
       "Dairy-Free"
     ],
-    "pet_friendly": true
+    "pet_friendly": true,
+    "rating": 3.8,
+    "review_count": 920
   },
   {
     "name": "Damak Restaurant",
@@ -311,7 +343,9 @@
       "Vegan",
       "Halal"
     ],
-    "pet_friendly": true
+    "pet_friendly": true,
+    "rating": 4.4,
+    "review_count": 670
   },
   {
     "name": "Tandoori Flames",
@@ -330,7 +364,9 @@
       "Vegan",
       "Halal"
     ],
-    "pet_friendly": true
+    "pet_friendly": true,
+    "rating": 4.4,
+    "review_count": 1340
   },
   {
     "name": "Ravintola Tandoori Cuisine Lehtisaari",
@@ -350,7 +386,9 @@
       "Vegan",
       "Halal"
     ],
-    "pet_friendly": false
+    "pet_friendly": false,
+    "rating": 4.3,
+    "review_count": 210
   },
   {
     "name": "Kappeli",
@@ -367,7 +405,9 @@
     "dietary": [
       "Vegetarian"
     ],
-    "pet_friendly": false
+    "pet_friendly": false,
+    "rating": 4.3,
+    "review_count": 6800
   },
   {
     "name": "BasBas Kulma",
@@ -387,7 +427,9 @@
       "Vegetarian",
       "Gluten-Free"
     ],
-    "pet_friendly": false
+    "pet_friendly": false,
+    "rating": 4.7,
+    "review_count": 720
   },
   {
     "name": "Forza",
@@ -405,7 +447,9 @@
       "Vegetarian",
       "Gluten-Free"
     ],
-    "pet_friendly": true
+    "pet_friendly": true,
+    "rating": 4.6,
+    "review_count": 950
   },
   {
     "name": "Winest",
@@ -422,7 +466,9 @@
     "dietary": [
       "Vegetarian"
     ],
-    "pet_friendly": false
+    "pet_friendly": false,
+    "rating": 4.5,
+    "review_count": 380
   },
   {
     "name": "Restaurant Grön",
@@ -440,7 +486,9 @@
       "Vegetarian",
       "Gluten-Free"
     ],
-    "pet_friendly": false
+    "pet_friendly": false,
+    "rating": 4.7,
+    "review_count": 890
   },
   {
     "name": "Ravintola Palace",
@@ -458,7 +506,9 @@
       "Vegetarian",
       "Gluten-Free"
     ],
-    "pet_friendly": false
+    "pet_friendly": false,
+    "rating": 4.7,
+    "review_count": 1250
   },
   {
     "name": "Finnjävel",
@@ -475,7 +525,9 @@
     "dietary": [
       "Vegetarian"
     ],
-    "pet_friendly": false
+    "pet_friendly": false,
+    "rating": 4.7,
+    "review_count": 850
   },
   {
     "name": "Café Savoy",
@@ -493,7 +545,9 @@
       "Vegetarian",
       "Gluten-Free"
     ],
-    "pet_friendly": false
+    "pet_friendly": false,
+    "rating": 4.6,
+    "review_count": 620
   },
   {
     "name": "Gastro Cafe Kallio",
@@ -512,7 +566,9 @@
       "Vegetarian",
       "Gluten-Free"
     ],
-    "pet_friendly": true
+    "pet_friendly": true,
+    "rating": 4.5,
+    "review_count": 1400
   },
   {
     "name": "Ravintola Kuurna",
@@ -531,7 +587,9 @@
       "Vegetarian",
       "Gluten-Free"
     ],
-    "pet_friendly": false
+    "pet_friendly": false,
+    "rating": 4.6,
+    "review_count": 530
   },
   {
     "name": "Boulevard Bar & Seafood",
@@ -551,7 +609,9 @@
       "Gluten-Free",
       "Dairy-Free"
     ],
-    "pet_friendly": false
+    "pet_friendly": false,
+    "rating": 4.5,
+    "review_count": 480
   },
   {
     "name": "Bistro Bardot",
@@ -569,7 +629,9 @@
       "Vegetarian",
       "Gluten-Free"
     ],
-    "pet_friendly": false
+    "pet_friendly": false,
+    "rating": 4.4,
+    "review_count": 390
   },
   {
     "name": "Elm",
@@ -587,7 +649,9 @@
     "dietary": [
       "Vegetarian"
     ],
-    "pet_friendly": true
+    "pet_friendly": true,
+    "rating": 4.5,
+    "review_count": 710
   },
   {
     "name": "Fisken på Disken",
@@ -606,7 +670,9 @@
       "Gluten-Free",
       "Dairy-Free"
     ],
-    "pet_friendly": true
+    "pet_friendly": true,
+    "rating": 4.4,
+    "review_count": 1850
   },
   {
     "name": "Le Coucou Vert",
@@ -624,7 +690,9 @@
       "Vegetarian",
       "Gluten-Free"
     ],
-    "pet_friendly": false
+    "pet_friendly": false,
+    "rating": 4.6,
+    "review_count": 310
   },
   {
     "name": "Ravintola Pamela",
@@ -642,7 +710,9 @@
       "Vegetarian",
       "Halal"
     ],
-    "pet_friendly": true
+    "pet_friendly": true,
+    "rating": 4.4,
+    "review_count": 420
   },
   {
     "name": "Brasa",
@@ -659,7 +729,9 @@
     "dietary": [
       "Vegetarian"
     ],
-    "pet_friendly": false
+    "pet_friendly": false,
+    "rating": 4.5,
+    "review_count": 350
   },
   {
     "name": "Shelter",
@@ -677,7 +749,9 @@
       "Vegetarian",
       "Gluten-Free"
     ],
-    "pet_friendly": false
+    "pet_friendly": false,
+    "rating": 4.6,
+    "review_count": 1150
   },
   {
     "name": "Pobre",
@@ -694,7 +768,9 @@
     "dietary": [
       "Vegetarian"
     ],
-    "pet_friendly": true
+    "pet_friendly": true,
+    "rating": 4.5,
+    "review_count": 890
   },
   {
     "name": "Ravintola Aleksanderplats",
@@ -712,7 +788,9 @@
       "Vegetarian",
       "Gluten-Free"
     ],
-    "pet_friendly": false
+    "pet_friendly": false,
+    "rating": 4.5,
+    "review_count": 680
   },
   {
     "name": "Plein",
@@ -730,7 +808,9 @@
       "Vegetarian",
       "Gluten-Free"
     ],
-    "pet_friendly": false
+    "pet_friendly": false,
+    "rating": 4.7,
+    "review_count": 410
   },
   {
     "name": "Goose Pastabar",
@@ -749,7 +829,9 @@
       "Vegetarian",
       "Gluten-Free"
     ],
-    "pet_friendly": true
+    "pet_friendly": true,
+    "rating": 4.5,
+    "review_count": 520
   },
   {
     "name": "Daddy Green's",
@@ -768,7 +850,9 @@
       "Vegan",
       "Gluten-Free"
     ],
-    "pet_friendly": true
+    "pet_friendly": true,
+    "rating": 4.5,
+    "review_count": 1250
   },
   {
     "name": "Pho Viet",
@@ -786,7 +870,9 @@
       "Vegetarian",
       "Dairy-Free"
     ],
-    "pet_friendly": true
+    "pet_friendly": true,
+    "rating": 4.4,
+    "review_count": 940
   },
   {
     "name": "Noodle Master",
@@ -805,7 +891,9 @@
       "Halal",
       "Dairy-Free"
     ],
-    "pet_friendly": true
+    "pet_friendly": true,
+    "rating": 4.4,
+    "review_count": 1100
   },
   {
     "name": "Siam Thai Modern",
@@ -823,7 +911,9 @@
       "Vegetarian",
       "Dairy-Free"
     ],
-    "pet_friendly": true
+    "pet_friendly": true,
+    "rating": 4.4,
+    "review_count": 670
   },
   {
     "name": "Vinkkeli",
@@ -841,7 +931,9 @@
     "dietary": [
       "Vegetarian"
     ],
-    "pet_friendly": false
+    "pet_friendly": false,
+    "rating": 4.7,
+    "review_count": 790
   },
   {
     "name": "Ravintola Lappi",
@@ -858,7 +950,9 @@
     "dietary": [
       "Vegetarian"
     ],
-    "pet_friendly": false
+    "pet_friendly": false,
+    "rating": 4.4,
+    "review_count": 1600
   },
   {
     "name": "Restaurant Merimakasiini",
@@ -877,7 +971,9 @@
       "Gluten-Free",
       "Dairy-Free"
     ],
-    "pet_friendly": true
+    "pet_friendly": true,
+    "rating": 4.3,
+    "review_count": 2100
   },
   {
     "name": "Ventuno",
@@ -895,7 +991,9 @@
       "Vegetarian",
       "Gluten-Free"
     ],
-    "pet_friendly": false
+    "pet_friendly": false,
+    "rating": 4.5,
+    "review_count": 920
   },
   {
     "name": "Via Tribunali",
@@ -913,7 +1011,9 @@
       "Vegetarian",
       "Gluten-Free"
     ],
-    "pet_friendly": true
+    "pet_friendly": true,
+    "rating": 4.5,
+    "review_count": 3400
   },
   {
     "name": "Café Bar No 9",
@@ -930,7 +1030,9 @@
     "dietary": [
       "Vegetarian"
     ],
-    "pet_friendly": true
+    "pet_friendly": true,
+    "rating": 4.3,
+    "review_count": 2850
   },
   {
     "name": "Allas Seagrill",
@@ -949,7 +1051,9 @@
       "Gluten-Free",
       "Dairy-Free"
     ],
-    "pet_friendly": true
+    "pet_friendly": true,
+    "rating": 4.1,
+    "review_count": 920
   },
   {
     "name": "Löyly Restaurant",
@@ -967,7 +1071,9 @@
     "dietary": [
       "Vegetarian"
     ],
-    "pet_friendly": true
+    "pet_friendly": true,
+    "rating": 4.2,
+    "review_count": 6400
   },
   {
     "name": "Finlandia Bistro",
@@ -984,7 +1090,9 @@
     "dietary": [
       "Vegetarian"
     ],
-    "pet_friendly": false
+    "pet_friendly": false,
+    "rating": 4.4,
+    "review_count": 410
   },
   {
     "name": "Krog Roba",
@@ -1001,7 +1109,9 @@
     "dietary": [
       "Vegetarian"
     ],
-    "pet_friendly": false
+    "pet_friendly": false,
+    "rating": 4.5,
+    "review_count": 890
   },
   {
     "name": "Ravintola Nokka",
@@ -1018,7 +1128,9 @@
     "dietary": [
       "Vegetarian"
     ],
-    "pet_friendly": false
+    "pet_friendly": false,
+    "rating": 4.6,
+    "review_count": 1450
   },
   {
     "name": "Olo",
@@ -1036,7 +1148,9 @@
       "Vegetarian",
       "Gluten-Free"
     ],
-    "pet_friendly": false
+    "pet_friendly": false,
+    "rating": 4.7,
+    "review_count": 820
   },
   {
     "name": "Demo",
@@ -1056,7 +1170,9 @@
       "Vegetarian",
       "Gluten-Free"
     ],
-    "pet_friendly": false
+    "pet_friendly": false,
+    "rating": 4.6,
+    "review_count": 680
   },
   {
     "name": "Ravintola Kosmos",
@@ -1073,7 +1189,9 @@
     "dietary": [
       "Vegetarian"
     ],
-    "pet_friendly": false
+    "pet_friendly": false,
+    "rating": 4.4,
+    "review_count": 1100
   },
   {
     "name": "Taquería El Rey",
@@ -1090,7 +1208,9 @@
     "dietary": [
       "Vegetarian"
     ],
-    "pet_friendly": true
+    "pet_friendly": true,
+    "rating": 4.5,
+    "review_count": 750
   },
   {
     "name": "Pancho Villa",
@@ -1109,29 +1229,33 @@
     ],
     "description": "A lively Tex-Mex and Mexican restaurant serving sizzling fajitas, burgers, burritos, and spicy wings in a casual atmosphere.",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeH5nOySvbrJ9ppE2Yp4HvEtxO_3V3gnmKXy1ETrdU2sphWE2v91HS33bbGEruANb2BGZIaFenk_ZRjmJJP91xrRCcYpes-Xby3C1SbZONsz8yyCtgFYnCq9nt3IElNBhJq-ngcWw=w408-h306-k-no",
-    "maps_url": "https://www.google.com/maps/search/Pancho+Villa+Kluuvi"
+    "maps_url": "https://www.google.com/maps/search/Pancho+Villa+Kluuvi",
+    "rating": 3.9,
+    "review_count": 1200
   },
   {
-  "name": "Levant",
-  "cuisine": "Middle Eastern",
-  "neighborhood": "Punavuori",
-  "price_level": 1,
-  "vegetarian_options": true,
-  "pet_friendly": true,
-  "dietary": [
-    "Vegetarian",
-    "Vegan",
-    "Halal"
-  ],
-  "ambiance": [
-    "cozy",
-    "casual"
-  ],
-  "description": "Authentic, vibrant Middle Eastern street food renowned for freshly rolled wraps, crispy falafel, homemade hummus, and generous mezze plates in a relaxed setting.",
-  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLek2DZacnOC5lo2hfS600c5nSwEk68Br72Y1gQQRWsCu37VsW1-dOiOaTvdEMoNol9W-aUVFqrxJKehvD6iltkfRamvjd8ch7FIzKD1dSklMJSHJnj2C8z37HKQekcfGYdNVjHX=w408-h406-k-no",
-  "maps_url": "https://maps.google.com/?q=Levant+Bulevardi+Helsinki"
-},
-{
+    "name": "Levant",
+    "cuisine": "Middle Eastern",
+    "neighborhood": "Punavuori",
+    "price_level": 1,
+    "vegetarian_options": true,
+    "pet_friendly": true,
+    "dietary": [
+      "Vegetarian",
+      "Vegan",
+      "Halal"
+    ],
+    "ambiance": [
+      "cozy",
+      "casual"
+    ],
+    "description": "Authentic, vibrant Middle Eastern street food renowned for freshly rolled wraps, crispy falafel, homemade hummus, and generous mezze plates in a relaxed setting.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLek2DZacnOC5lo2hfS600c5nSwEk68Br72Y1gQQRWsCu37VsW1-dOiOaTvdEMoNol9W-aUVFqrxJKehvD6iltkfRamvjd8ch7FIzKD1dSklMJSHJnj2C8z37HKQekcfGYdNVjHX=w408-h406-k-no",
+    "maps_url": "https://maps.google.com/?q=Levant+Bulevardi+Helsinki",
+    "rating": 4.5,
+    "review_count": 1600
+  },
+  {
     "name": "Elias Döner REDI",
     "cuisine": "Middle Eastern",
     "neighborhood": "Kalasatama",
@@ -1147,7 +1271,9 @@
     ],
     "description": "Berlin-style gourmet döner spot inside Mall of REDI featuring seasoned chicken and beef döner, fresh crunchy seasonal salads, homemade garlic sauces, and falafel platters.",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfwjrgamyD3vlPwi1ZSuCBbdNR8PycI2NjT1hfNDzFTFiZM2UoyiJvhb_PTWDuXNZh8ewPuHpRtFbshOvzTHGmfFDltdtPtukBPcDSJwH44YVC5Uiy6U07WnSGgKKl-wizpvaD0sKucpuZW=w426-h240-k-no",
-    "maps_url": "https://maps.google.com/?q=Elias+Döner+Kebab+REDI+Helsinki"
+    "maps_url": "https://maps.google.com/?q=Elias+Döner+Kebab+REDI+Helsinki",
+    "rating": 4.2,
+    "review_count": 940
   },
   {
     "name": "Hungry Hub Vuosaari",
@@ -1164,7 +1290,9 @@
     ],
     "description": "Popular East Helsinki fast-casual diner known for crispy fried chicken boxes, hot wings, loaded fries, and juicy smash-style beef burgers.",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfD8deXO10A6TUAS195PKBFsF5EoobU8SxsC1a9qq5OsY9WIKE-EO0X4uAuyHEQAgOEcfaXiWO_YKZNOw5yCOv_dF2HeM-gcrpP14s5AG85OUQlhS0hLxBKzYgxfOQe0eElYFAYwRhEzOR8=w426-h240-k-no",
-    "maps_url": "https://maps.google.com/?q=Hungry+Hub+Vuosaari+Helsinki"
+    "maps_url": "https://maps.google.com/?q=Hungry+Hub+Vuosaari+Helsinki",
+    "rating": 4.1,
+    "review_count": 310
   },
   {
     "name": "Elias Döner Kebab Vuosaari",
@@ -1182,7 +1310,9 @@
     ],
     "description": "Fast-casual Berlin-style döner shop located at Kahvipavunkuja in Vuosaari, serving generous portions of shaved beef döner, crispy chicken döner, fresh salad boxes, loaded fries, and falafel.",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf1awlBOadX2fDiuPQG60d7co9g28-W6_6J-SIVzec2s6vScfjkr-H-U6rv19tvaJNPmyvf2q622_VjbQ1yk9_K7oixP0vscV6ppP--F9-_htMMaagZQWCvmUfFmG5ZiWdu_lqeR_Mm4NU=w408-h544-k-no",
-    "maps_url": "https://maps.google.com/?q=Elias+Döner+Kebab+Vuosaari+Helsinki"
+    "maps_url": "https://maps.google.com/?q=Elias+Döner+Kebab+Vuosaari+Helsinki",
+    "rating": 4.2,
+    "review_count": 520
   },
   {
     "name": "Yamanoon",
@@ -1201,7 +1331,9 @@
     ],
     "description": "Authentic Yemeni restaurant right by Malmi station specializing in slow-cooked mandi lamb and chicken, savory aqdah, freshly baked flatbreads, and traditional sahawiq sauce.",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfPSAI_63cmduSgmIhzshlRPduhJN4LlHAZC1GKGJriP-ytv0thz9uai_mi2-L_GFX7sVS7aLVY0VFVhEC0uSe8GnoK8RpIzcfZld6EBrlZzE-oo5eSuvF01nbh0jang0knlRvxRAozn0k=w426-h240-k-no",
-    "maps_url": "https://maps.google.com/?q=Yamanoon+Malmi+Helsinki"
+    "maps_url": "https://maps.google.com/?q=Yamanoon+Malmi+Helsinki",
+    "rating": 4.4,
+    "review_count": 480
   },
   {
     "name": "Malacca Kaari",
@@ -1219,7 +1351,9 @@
     ],
     "description": "Authentic Malaysian restaurant located in Kauppakeskus Kaari featuring an all-day buffet and à la carte dishes like slow-cooked beef rendang, spicy laksa soup, and sambal chicken using 100% Halal meat.",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfp2hWwY9SUvGVB7fwV8b88zi-UpR8eO22AwiuEzr1K0sp2NLfCTEuJdexxFXBaxGOqM_o2tkBVVdl_BWqORGS0xVc3DSm9IRuizEbq4JCyFfrMRIdzcmwJzuFQ9p2FrCDvYGdCGG40cOc=w408-h306-k-no",
-    "maps_url": "https://maps.google.com/?q=Malacca+Kaari+Helsinki"
+    "maps_url": "https://maps.google.com/?q=Malacca+Kaari+Helsinki",
+    "rating": 4.3,
+    "review_count": 290
   },
   {
     "name": "Picnic Kaari",
@@ -1237,7 +1371,9 @@
     ],
     "description": "Popular Finnish fast-casual café on the 1st floor of Mall Kaari, known for freshly toasted baguettes, oven-baked hot potatoes with fillings, fresh salads, and specialty coffees.",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfhBTN69t0GSlO3FAmIcOZkJrR-uBzrgn4yfhJzyA4EMLT-oB9lWrw5mfF3q1G73fyukfGkimSHJn3hlc335Ou6wP_vgLPNA8vrHXduGWTvhzlERR-0xuAl4gkGUv-pM_5BBv0Ipxff5VoH=w408-h280-k-no",
-    "maps_url": "https://maps.google.com/?q=Picnic+Kauppakeskus+Kaari+Helsinki"
+    "maps_url": "https://maps.google.com/?q=Picnic+Kauppakeskus+Kaari+Helsinki",
+    "rating": 4.0,
+    "review_count": 350
   },
   {
     "name": "Seoul Good REDI",
@@ -1254,7 +1390,9 @@
     ],
     "description": "Vibrant Korean buffet spot inside Mall of REDI specializing in all-you-can-eat Korean fried chicken (KFC) in assorted glazes, tteokbokki, japchae, fresh banchan salads, and house kimchi.",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcLE121pMaACH9fS-28iNYEDVQNHTHJ0A1xGqzCGnneBhbmg0GyqKAjOqmLdhYCVvPbS899mL5FL2rPLwgn_AHxtGqOgVzE53R6URv_FL5_qEt8QreB_syDfPky3SltvSvExeG3LMAm_7Ib=w408-h306-k-no",
-    "maps_url": "https://maps.google.com/?q=Seoul+Good+REDI+Helsinki"
+    "maps_url": "https://maps.google.com/?q=Seoul+Good+REDI+Helsinki",
+    "rating": 4.4,
+    "review_count": 1150
   },
   {
     "name": "Seoul Good Itis",
@@ -1271,7 +1409,9 @@
     ],
     "description": "Korean fried chicken and street food buffet located on the 2nd floor in the EATIS food court of Itis shopping center, offering crispy glazed chicken, hot sides, soups, and traditional Korean salads.",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeAiMRNEPp-jL2Wyv4rVL6J-6ajRsnkDdpPRmjtKbs1gqi6wIsrHpjoKK5dZ8AjIwCoVOnuStz8o6Z4p9CfeEa0ZCyGpVnWED8kCeqU96MJ-6MQmTO77xxHl9zvq5eDBPR1C02zM8i8Is4=w408-h305-k-no",
-    "maps_url": "https://maps.google.com/?q=Seoul+Good+Itis+Helsinki"
+    "maps_url": "https://maps.google.com/?q=Seoul+Good+Itis+Helsinki",
+    "rating": 4.3,
+    "review_count": 890
   },
   {
     "name": "Taste of Uyghur",
@@ -1290,7 +1430,9 @@
     ],
     "description": "Authentic Silk Road Uyghur kitchen in Sörnäinen famous for freshly hand-pulled Laghman noodles, savory Gösh Nan flatbreads, steamed manta dumplings, and cumin-spiced grilled lamb skewers.",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfRHYGPj1mN19eIYBLi0M0Y9jwgE5_V5omViDQlabyIuJMn6UKw9hVsHP5PmVzgtVwRGbdQFbDgTUHt-252lGadrpOoE8k17vkjXRiXfEp8PUrmcroJkupjTr8d9R0xvuVG7vSlEv3-1lYd=w408-h544-k-no",
-    "maps_url": "https://maps.google.com/?q=Taste+of+Uyghur+Vilhonvuorenkatu+Helsinki"
+    "maps_url": "https://maps.google.com/?q=Taste+of+Uyghur+Vilhonvuorenkatu+Helsinki",
+    "rating": 4.6,
+    "review_count": 670
   },
   {
     "name": "Mashiro Pukinmäki",
@@ -1309,7 +1451,9 @@
     ],
     "description": "Intimate Japanese restaurant located near Pukinmäki station on Unikkotie, serving freshly prepared sushi platters, steaming ramen, udon noodle bowls, poke bowls, and savory teriyaki dishes.",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfOJRQN1fcr6hgTd817t5ITJ8uJIjrfUjy7Jtx3OttXT4GVOfW_R-3mwd8mMba2gADdgfbTZhAZUAxneHsAsEavRxthUqIB6ntGAAm2dLwZLNE6UJLqp9OJBcQ29g-maQ3NjImuEA=w408-h544-k-no",
-    "maps_url": "https://maps.google.com/?q=Mashiro+Pukinmäki+Unikkotie+Helsinki"
+    "maps_url": "https://maps.google.com/?q=Mashiro+Pukinmäki+Unikkotie+Helsinki",
+    "rating": 4.3,
+    "review_count": 340
   },
   {
     "name": "Mashiro Vallila",
@@ -1328,7 +1472,9 @@
     ],
     "description": "Cozy Japanese eatery situated on Mäkelänkatu in Vallila, offering open-kitchen dining with a wide selection of handmade nigiri, maki rolls, rich noodle soups, donburi rice bowls, and pan-fried gyoza.",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf4TntjrgmJghhDNwaLyXGiI-SkX4lDhoDs6dONeWcLmKkO9-lltV2TrdtujMeax1aOq8s4Qwrp4A1AH7CwTW7PyfE0sCtCh-eW_H6U9keNUxqEnpaOSQzRnvN2j-rCVlvmo5E=w408-h612-k-no",
-    "maps_url": "https://maps.google.com/?q=Mashiro+Vallila+Mäkelänkatu+Helsinki"
+    "maps_url": "https://maps.google.com/?q=Mashiro+Vallila+Mäkelänkatu+Helsinki",
+    "rating": 4.4,
+    "review_count": 590
   },
   {
     "name": "Olivia Central Station",
@@ -1347,7 +1493,9 @@
     ],
     "description": "Vibrant Italian restaurant located in the historic former ticket hall of Helsinki Central Railway Station, serving Milanese-inspired wood-fired sourdough pizzas, fresh pasta, antipasti, and quality Italian wines.",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeZub9a3UtNx5jizDc-SHOFtLkvY8-T_YiSDKXs7bR43SIO19XMQlQGP9XlxCpWWPNApezcM1vMpTz5_nuJXFCIVHKC4ml58CXn7y3pqAYGaNOIIDn1_PNp1S3UcsnBn6UQFvjZPA=w408-h272-k-no",
-    "maps_url": "https://maps.google.com/?q=Olivia+Central+Station+Helsinki"
+    "maps_url": "https://maps.google.com/?q=Olivia+Central+Station+Helsinki",
+    "rating": 4.3,
+    "review_count": 3100
   },
   {
     "name": "Vapiano Mikonkatu",
@@ -1366,7 +1514,9 @@
     ],
     "description": "Spacious, relaxed Italian fast-casual spot on Mikonkatu where chefs prepare customized handmade fresh pasta, crisp stone-baked pizzas, and hearty salads right before your eyes at dedicated cooking stations.",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd9KqYkdAfGgFMf6858cTQ3923bNYF30o26aippRt_ajLohwTo-cBalQIbehiaSWKZGZzGyyQhk9REpbqLEs-UBPhteTshTP_tkQAtt695jDYrCh20HnSs3cDvgewmKaPfs9lYD=w408-h271-k-no",
-    "maps_url": "https://maps.google.com/?q=Vapiano+Mikonkatu+Helsinki"
+    "maps_url": "https://maps.google.com/?q=Vapiano+Mikonkatu+Helsinki",
+    "rating": 4.1,
+    "review_count": 2400
   },
   {
     "name": "Tawook Lab Citycenter",
@@ -1386,7 +1536,9 @@
     ],
     "description": "Contemporary Syrian eatery in Citykäytävä / Citycenter serving marinated shish tawook chicken platters, spiced kofta, loaded wraps, fresh house-made hummus, and crispy falafel.",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfaPuuzVzaUub-i6o9U5wzmCfD5u8Y9_osJZ6y42YJCZGVrF_5js11yksPjN67jeN3lRBDMXqN7FTEl-zrpJdgxxgSPGYGCPmSg_s3zaVi0jhXW33aJ7eL3NxWb54FpSobe4p9eDtQM_tBt=w408-h306-k-no",
-    "maps_url": "https://maps.google.com/?q=Tawook+Lab+Citykaytava+Aleksanterinkatu+21+Helsinki"
+    "maps_url": "https://maps.google.com/?q=Tawook+Lab+Citykaytava+Aleksanterinkatu+21+Helsinki",
+    "rating": 4.3,
+    "review_count": 350
   },
   {
     "name": "Tawook Lab Kluuvi",
@@ -1405,28 +1557,32 @@
     ],
     "description": "Modern Syrian street-food kitchen on the 2nd floor of Kluuvi Shopping Centre featuring charcoal-seasoned tawook skewers, upside-down kofta bowls, batata harra, and vibrant mezze platters.",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf7LVN0Sk8YC2KbK55rBEN5cG8tLoHcSgfXtgBG02u-u_IDikoOkymKGvoJR5VB1kAmBQs7wqAXYsP5xCnhGSdkn8tpDm7Afg8WnATmk8jvMSKFYe5G7inVBYQYJRQJFL77qO08xBoW2PrY=w408-h544-k-no",
-    "maps_url": "https://maps.google.com/?q=Tawook+Lab+Kluuvi+Helsinki"
+    "maps_url": "https://maps.google.com/?q=Tawook+Lab+Kluuvi+Helsinki",
+    "rating": 4.4,
+    "review_count": 280
   },
   {
-  "name": "Deli Lunch Roihupelto",
-  "cuisine": "European",
-  "neighborhood": "Roihupelto",
-  "price_level": 1,
-  "vegetarian_options": true,
-  "pet_friendly": false,
-  "dietary": [
-    "Vegetarian",
-    "Gluten-Free",
-    "Halal"
-  ],
-  "ambiance": [
-    "casual"
-  ],
-  "description": "Busy weekday buffet restaurant in the Roihupelto industrial area serving wholesome Finnish and European home-style lunches (kotiruoka), grilled specials, a rich salad bar, fresh breads, and dessert coffee.",
-  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcUtQ67HJkZJmEeS4nYQPscmMnAdGF51vi8jTH8gBMZfGYKMRHJuKbSkj6SEVM5W6Fyf4YScIyfY_5Ii1WblvVvdejZrD5uJDgQdfnaMND6H9ugqYoVhwDo2tDyrzAacgeu6FDP9Ygo4hph=w408-h306-k-no",
-  "maps_url": "https://maps.google.com/?q=Deli+Lunch+Pulttitie+1+Helsinki"
-},
-{
+    "name": "Deli Lunch Roihupelto",
+    "cuisine": "European",
+    "neighborhood": "Roihupelto",
+    "price_level": 1,
+    "vegetarian_options": true,
+    "pet_friendly": false,
+    "dietary": [
+      "Vegetarian",
+      "Gluten-Free",
+      "Halal"
+    ],
+    "ambiance": [
+      "casual"
+    ],
+    "description": "Busy weekday buffet restaurant in the Roihupelto industrial area serving wholesome Finnish and European home-style lunches (kotiruoka), grilled specials, a rich salad bar, fresh breads, and dessert coffee.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcUtQ67HJkZJmEeS4nYQPscmMnAdGF51vi8jTH8gBMZfGYKMRHJuKbSkj6SEVM5W6Fyf4YScIyfY_5Ii1WblvVvdejZrD5uJDgQdfnaMND6H9ugqYoVhwDo2tDyrzAacgeu6FDP9Ygo4hph=w408-h306-k-no",
+    "maps_url": "https://maps.google.com/?q=Deli+Lunch+Pulttitie+1+Helsinki",
+    "rating": 4.2,
+    "review_count": 190
+  },
+  {
     "name": "Bangkok 9 Citycenter",
     "cuisine": "Thai",
     "neighborhood": "City Centre",
@@ -1444,7 +1600,9 @@
     ],
     "description": "Popular modern Thai street food kitchen in Citycenter shopping passage serving fragrant Tom Yum soups, Pad Thai noodles, aromatic green and red curries, and crispy spring rolls.",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc69MbNf0U1WS3pSIdwpvsHgtiEaGLF0UPY1K6sT5Cs-5IwTaFK5F0NPYkLxoYsMNFw01kOig3pumgqk0D8MogskPBw9pKXZSNicSLsE8OoJEVvYtMKE_4EqhP8Q7x-zUvb4OVcU0HI7Fin=w408-h307-k-no",
-    "maps_url": "https://maps.google.com/?q=Bangkok+9+Citycenter+Helsinki"
+    "maps_url": "https://maps.google.com/?q=Bangkok+9+Citycenter+Helsinki",
+    "rating": 4.5,
+    "review_count": 1200
   },
   {
     "name": "Friends & Brgrs Citycenter",
@@ -1463,7 +1621,9 @@
     ],
     "description": "Finnish smash burger spot located in the central station area on Aleksanterinkatu/Kaivokatu, using freshly ground domestic beef, house-baked brioche buns, triple-cooked fries, and vegan burger alternatives.",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfGFI_ck_TbiBcBExyqfhfHJkWkJNhvpNeXlMpZ7XCZ-NtSZC4hkJNj5bdMVN1AcjIh0OQWxzLoWU-urIQlr5EmwTNiHbKu1LBLZt9WuH6Cw9d2Lcf6aF6mJCh95RZbqxng5Rgw=w408-h306-k-no",
-    "maps_url": "https://maps.google.com/?q=Friends+and+Brgrs+Citycenter+Helsinki"
+    "maps_url": "https://maps.google.com/?q=Friends+and+Brgrs+Citycenter+Helsinki",
+    "rating": 4.1,
+    "review_count": 2100
   },
   {
     "name": "Base Camp Vuosaari",
@@ -1482,7 +1642,9 @@
     ],
     "description": "Welcoming Nepalese restaurant in Vuosaari (Columbus) featuring tandoori-baked naan, creamy butter chicken, lamb korma, steaming momo dumplings, and mild-to-spicy lentil curries.",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcTHFw1WPP1eTul9Bb-5du_yvmrMDfskElWJV9qqbh-b-ac0ACn4YXo4YTRJ5EOMo9A7JJQC886LO9fdBjh8JRv37v7xYo7ly3sN9GG7WgfqF248Gfs8E8qyG6dj-pu0CeLQMYspFlRvKM=w408-h306-k-no",
-    "maps_url": "https://maps.google.com/?q=Ravintola+Base+Camp+Vuosaari+Helsinki"
+    "maps_url": "https://maps.google.com/?q=Ravintola+Base+Camp+Vuosaari+Helsinki",
+    "rating": 4.4,
+    "review_count": 450
   },
   {
     "name": "Friends & Brgrs Kaari",
@@ -1501,7 +1663,9 @@
     ],
     "description": "Handcrafted smash burgers and hand-cut fries served inside Kauppakeskus Kaari, prepared from scratch with Finnish meat, fresh produce, and house sauces in a dog-friendly mall setting.",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcu50KiwCzkQ749g55GKR-hmEd-560CJvSHHKH3z5nbgEQDywFA2oqS1ghHRvUZa_Kkkz2ZpcAZOCKoTIVIlu_d4Mc0aO6GtEY7cheD6_1ZX7CmQT_jIjJ7-pkodO3OoufL2lEspQ=w426-h240-k-no",
-    "maps_url": "https://maps.google.com/?q=Friends+and+Brgrs+Kauppakeskus+Kaari+Helsinki"
+    "maps_url": "https://maps.google.com/?q=Friends+and+Brgrs+Kauppakeskus+Kaari+Helsinki",
+    "rating": 4.2,
+    "review_count": 850
   },
   {
     "name": "Bangkok 9 Tripla",
@@ -1521,7 +1685,9 @@
     ],
     "description": "Vibrant Thai street kitchen situated on the 2nd floor (Little Manhattan) of Mall of Tripla, serving authentic wok-tossed Pad Thai, spicy Tom Yum soups, rich panang curries, and crispy duck specials.",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeEVwl9ICyNU6o57AckZWb39kKXOpPwszP5yrZ48zP3OgYNQNFMQthBOnp52XcbUqMnTsnNX6f_coiEIkBy5adMgJwD3C36xqRuHpGhwUwB2w7BARo_xgGard3CIM_k52oyBKl7=w426-h240-k-no",
-    "maps_url": "https://maps.google.com/?q=Bangkok+9+Mall+of+Tripla+Helsinki"
+    "maps_url": "https://maps.google.com/?q=Bangkok+9+Mall+of+Tripla+Helsinki",
+    "rating": 4.4,
+    "review_count": 950
   },
   {
     "name": "Pancho Villa Tripla",
@@ -1539,7 +1705,9 @@
     ],
     "description": "Relaxed Tex-Mex restaurant on the 4th floor of Mall of Tripla renowned for generous portions of flame-grilled burgers, loaded nachos, sizzling fajita skillets, and house-made remu dip.",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcZDB93YhBXAPNcinKkGydlA9FZzj0wfH9B-En7Q4SD7ZVmGbTckO93JMpboC0bVAT-ieOXAeZqhQ9fDcOnKxMudX1no7hxcvGdSRSBMookRgQoCRfXPMf4uTrLdB2g-UH-7Ub4Jpw8m1Jx=w408-h544-k-no",
-    "maps_url": "https://maps.google.com/?q=Pancho+Villa+Mall+of+Tripla+Helsinki"
+    "maps_url": "https://maps.google.com/?q=Pancho+Villa+Mall+of+Tripla+Helsinki",
+    "rating": 4.0,
+    "review_count": 1100
   },
   {
     "name": "The Avocado Cafeteria",
@@ -1559,27 +1727,31 @@
     ],
     "description": "Health-focused avocado specialty eatery on the 2nd floor of Mall of Tripla serving artfully styled avocado toasts, nourishing superfood poke bowls, fresh smoothies, and specialty coffee drinks.",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe3re0GWfVQMbB06ksOkKV1XuccEGaYsfZZy8jQzqKOcy1EBwTNjelao0iYVxHR8CXG1MKLEpTWYBuTKOoi_xOz_4W7NvJbymZfyFbGvUejwl-y9O-r4VlMwDfPAXJqi8se79trb7DLIGfa=w408-h544-k-no",
-    "maps_url": "https://maps.google.com/?q=The+Avocado+Company+Mall+of+Tripla+Helsinki"
+    "maps_url": "https://maps.google.com/?q=The+Avocado+Company+Mall+of+Tripla+Helsinki",
+    "rating": 4.3,
+    "review_count": 230
   },
   {
-  "name": "Humu'z Döner Tripla",
-  "cuisine": "Middle Eastern",
-  "neighborhood": "Pasila",
-  "price_level": 1,
-  "vegetarian_options": true,
-  "pet_friendly": true,
-  "dietary": [
-    "Halal",
-    "Vegetarian"
-  ],
-  "ambiance": [
-    "casual"
-  ],
-  "description": "Fast-casual Middle Eastern eatery on the 2nd floor of Mall of Tripla serving Berlin-style beef and chicken döner kebabs, freshly wrapped durum, loaded fries, and vegetarian falafel plates with house garlic sauce.",
-  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe5Ah_wqIRb2F1-x32rcgiYdUdlCYJ_IdzcG_rDB8QHYoAwonqmVplZIjr2iKH2egFO9H5EhcFRtfIJleNOaJZoBj_CKFQNXi8J1xT2NE9LcjkNCLX18RtZa-dBusF-HAoCz_c=w408-h278-k-no",
-  "maps_url": "https://maps.google.com/?q=Humuz+Doner+Mall+of+Tripla+Helsinki"
-}, 
-{
+    "name": "Humu'z Döner Tripla",
+    "cuisine": "Middle Eastern",
+    "neighborhood": "Pasila",
+    "price_level": 1,
+    "vegetarian_options": true,
+    "pet_friendly": true,
+    "dietary": [
+      "Halal",
+      "Vegetarian"
+    ],
+    "ambiance": [
+      "casual"
+    ],
+    "description": "Fast-casual Middle Eastern eatery on the 2nd floor of Mall of Tripla serving Berlin-style beef and chicken döner kebabs, freshly wrapped durum, loaded fries, and vegetarian falafel plates with house garlic sauce.",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe5Ah_wqIRb2F1-x32rcgiYdUdlCYJ_IdzcG_rDB8QHYoAwonqmVplZIjr2iKH2egFO9H5EhcFRtfIJleNOaJZoBj_CKFQNXi8J1xT2NE9LcjkNCLX18RtZa-dBusF-HAoCz_c=w408-h278-k-no",
+    "maps_url": "https://maps.google.com/?q=Humuz+Doner+Mall+of+Tripla+Helsinki",
+    "rating": 4.2,
+    "review_count": 100
+  },
+  {
     "name": "Dust & Fry Malmi",
     "cuisine": "American",
     "neighborhood": "Malmi",
@@ -1594,7 +1766,9 @@
     ],
     "description": "Fast-casual fried chicken joint near Malmi station known for golden, crispy Halal fried chicken pieces, tenders, spicy wings, loaded waffle fries, and house dipping sauces.",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf8kPZXOsZl4PYqgtm9GpIfNCP0_nOjzoszdJXIXBmOhyAJNxT0i06E0MKewSUwyMppqKKuwjKN2WX8gfreF5oJljf-ZHnyrfglvxCZhA7uZW-xdSvWpf0S18VsnXtkTuxFrsy3-xf28NGh=w408-h544-k-no",
-    "maps_url": "https://maps.google.com/?q=Dust+N+Fry+Malmi+Helsinki"
+    "maps_url": "https://maps.google.com/?q=Dust+N+Fry+Malmi+Helsinki",
+    "rating": 4.1,
+    "review_count": 150
   },
   {
     "name": "Dust & Fry Itäkeskus",
@@ -1611,6 +1785,8 @@
     ],
     "description": "Popular fast-casual spot inside Kauppakeskus Itis serving crunchy seasoned Halal fried chicken combos, chicken burgers, hot wings, and seasoned fries.",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLerKCV8uZ_9efpWLycybIKGo6NMsEGIZcOjaVRSRMdeSJEzmj0rOeqGrW_4VDUJ2JXz4YpkpbruyjmVwCR3J42doW6V7mNrsalfRuJhdEJ6D4coJUT2airJWjYz_6zcCHUtBIrZrUT8zH-T=w408-h306-k-no",
-    "maps_url": "https://maps.google.com/?q=Dust+N+Fry+Itis+Itäkeskus+Helsinki"
+    "maps_url": "https://maps.google.com/?q=Dust+N+Fry+Itis+Itäkeskus+Helsinki",
+    "rating": 4.0,
+    "review_count": 180
   }
 ]
