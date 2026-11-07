@@ -4,7 +4,9 @@ from pathlib import Path
 
 import streamlit as st
 from google import genai
+from google.genai import types
 from services.vector_search import search_restaurants
+from streamlit_mic_recorder import mic_recorder
 
 
 MODEL_NAME = "gemini-3.5-flash-lite"
@@ -28,11 +30,36 @@ if "search_explanation" not in st.session_state:
 if "search_preferences" not in st.session_state:
     st.session_state.search_preferences = None
 
+if "voice_text" not in st.session_state:
+    st.session_state.voice_text = ""
+
 
 def load_restaurants():
     data_path = Path(__file__).parent / "data" / "restaurants.json"
     with data_path.open(encoding="utf-8") as file:
         return json.load(file)
+
+
+def transcribe_audio_bytes(audio_bytes: bytes) -> str:
+    """
+    Transcribes spoken audio in-memory using Gemini multimodal capabilities.
+    The raw audio stream is held only in RAM and never written to disk or logged.
+    """
+    if not audio_bytes:
+        return ""
+
+    response = client.models.generate_content(
+        model=MODEL_NAME,
+        contents=[
+            types.Part.from_bytes(
+                data=audio_bytes,
+                mime_type="audio/wav",
+            ),
+            "Transcribe the spoken words in this audio exactly. "
+            "Return only the transcribed text, with no markdown, conversational preamble, or commentary.",
+        ],
+    )
+    return response.text.strip() if response.text else ""
 
 
 def extract_preferences(text, restaurants):
@@ -167,7 +194,7 @@ def recommend(
         if skip:
             continue
 
-        # Base score of 1.0 ensures any restaurant passing hard filters is kept
+        # Base score ensures matching venues stay in result set
         rule_score = 1.0
 
         if cuisine != "Any" and restaurant["cuisine"].lower() == cuisine.lower():
@@ -188,7 +215,7 @@ def recommend(
             relevance = 1 - (rank / max_semantic_rank)
             semantic_score = 1.5 * relevance
 
-        # Factor rating into scoring (default to 4.0 if not present in record)
+        # Factor rating into scoring (normalizing 0.0-5.0 to a 0.0-1.5 point contribution)
         rating_val = restaurant.get("rating", 4.0)
         rating_score = (rating_val / 5.0) * 1.5
 
@@ -281,15 +308,39 @@ if st.session_state.favorites:
         st.session_state.favorites.clear()
         st.rerun()
 else:
-    st.sidebar.caption("Click '❤️ Favorite' on any restaurant card to save it here.")
+    st.sidebar.caption("Click '❤️ Add to Favorites' on any restaurant card to save it here.")
 
 
-# --- Main Search Area ---
-request = st.text_input(
-    "Or describe what you're looking for in natural language",
-    placeholder="e.g., A cozy dog-friendly vegan spot in Kallio with good wine",
-    key="main_search_input"
-)
+# --- Main Search Area with Mic Input ---
+col_input, col_mic = st.columns([5, 1], vertical_alignment="bottom")
+
+with col_mic:
+    audio_record = mic_recorder(
+        start_prompt="🎙️ Speak",
+        stop_prompt="⏹️ Stop",
+        key="voice_recorder",
+        just_once=True,
+        use_container_width=True,
+    )
+
+if audio_record and "bytes" in audio_record and audio_record["bytes"]:
+    with st.spinner("Transcribing speech..."):
+        try:
+            transcribed = transcribe_audio_bytes(audio_record["bytes"])
+            if transcribed:
+                st.session_state.voice_text = transcribed
+        except Exception as e:
+            st.warning(f"Voice transcription unavailable: {e}")
+
+with col_input:
+    request = st.text_input(
+        "Describe what you're looking for in natural language (or tap 'Speak')",
+        value=st.session_state.voice_text,
+        placeholder="e.g., A cozy dog-friendly vegan spot in Kallio with good wine",
+        key="main_search_input",
+    )
+
+st.caption("🔒 *Voice recordings are processed in-memory and never stored on disk or server records.*")
 
 if request:
     st.caption(
@@ -345,8 +396,6 @@ if st.button("Find restaurants", type="primary", key="find_restaurants_btn"):
         semantic_ranks=semantic_ranks,
     )
 
-    # When natural language text search is used with no semantic matches and cuisine is Any,
-    # treat it as an out-of-scope query. For sidebar browsing, keep all passing candidates.
     if is_text_search and preferences["cuisine"] == "Any" and not semantic_ranks:
         st.session_state.search_results = []
     else:
@@ -367,7 +416,7 @@ if st.button("Find restaurants", type="primary", key="find_restaurants_btn"):
 # --- Render Results from Session State ---
 if st.session_state.search_results is not None:
     preferences = st.session_state.search_preferences
-   
+
     if not st.session_state.search_results:
         st.warning("🚫 No restaurants match your specific request in our database.")
         st.info("Try searching for a different cuisine, neighborhood, or broadening your preferences!")
@@ -389,13 +438,13 @@ if st.session_state.search_results is not None:
                             "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80",
                             use_container_width=True,
                         )
-                
+
                 with cols[1]:
                     name = restaurant["name"]
-                    
+
                     is_fav = name in st.session_state.favorites
                     fav_label = "❤️ Favorited" if is_fav else "🤍 Add to Favorites"
-                    
+
                     col_title, col_fav = st.columns([3, 1])
                     with col_title:
                         st.subheader(name)
@@ -419,23 +468,23 @@ if st.session_state.search_results is not None:
                         rating_str += f" ({review_count}+)"
                 else:
                     rating_str = ""
-                
+
                 dietary_tags = " · ".join(restaurant.get("dietary", []))
                 dietary_str = f" · {dietary_tags}" if dietary_tags else ""
-                
+
                 is_pet_friendly = restaurant.get("pet_friendly", False)
                 pet_badge = " · 🐾 Pet-Friendly" if is_pet_friendly else " · 🚫 No Pets"
-                
+
                 st.write(
                     f'**{restaurant["cuisine"]}** · {restaurant["neighborhood"]} '
                     f'· Price: {price_symbols}{rating_str}{dietary_str}{pet_badge}'
                 )
                 st.write(restaurant["description"])
-                
+
                 maps_url = restaurant.get("maps_url")
                 if maps_url:
                     st.markdown(f"[View on Google Maps]({maps_url})")
-            
+
             st.divider()
 elif st.session_state.search_results is None:
     st.info("Use the filters or search bar above and click 'Find restaurants' to start exploring.")
