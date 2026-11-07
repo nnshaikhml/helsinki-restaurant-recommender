@@ -138,7 +138,7 @@ def recommend(
     ambiance=None,
     semantic_ranks=None,
 ):
-    """Filter hard requirements and combine rule-based and semantic scores."""
+    """Filter hard requirements and combine rule-based, semantic, and rating scores."""
     semantic_ranks = semantic_ranks or {}
     selected_dietary = selected_dietary or []
     results = []
@@ -167,8 +167,7 @@ def recommend(
         if skip:
             continue
 
-        # Base score of 1.0 ensures any restaurant passing hard filters
-        # (price, dietary, neighborhood, pet policy) is treated as a valid candidate
+        # Base score of 1.0 ensures any restaurant passing hard filters is kept
         rule_score = 1.0
 
         if cuisine != "Any" and restaurant["cuisine"].lower() == cuisine.lower():
@@ -189,7 +188,11 @@ def recommend(
             relevance = 1 - (rank / max_semantic_rank)
             semantic_score = 1.5 * relevance
 
-        combined_score = rule_score + semantic_score
+        # Factor rating into scoring (default to 4.0 if not present in record)
+        rating_val = restaurant.get("rating", 4.0)
+        rating_score = (rating_val / 5.0) * 1.5
+
+        combined_score = rule_score + semantic_score + rating_score
         results.append((combined_score, restaurant))
 
     results.sort(key=lambda item: item[0], reverse=True)
@@ -206,6 +209,8 @@ def explain_recommendations(preferences, results):
                 "cuisine": restaurant["cuisine"],
                 "neighborhood": restaurant["neighborhood"],
                 "price_level": restaurant["price_level"],
+                "rating": restaurant.get("rating"),
+                "review_count": restaurant.get("review_count"),
                 "dietary": restaurant.get("dietary", []),
                 "pet_friendly": restaurant.get("pet_friendly", False),
                 "description": restaurant["description"],
@@ -340,8 +345,8 @@ if st.button("Find restaurants", type="primary", key="find_restaurants_btn"):
         semantic_ranks=semantic_ranks,
     )
 
-    # When natural language text search is used and no semantic matches occur and cuisine is Any,
-    # treat it as an out-of-scope query. For sidebar browsing, keep all passing candidates (score > 0).
+    # When natural language text search is used with no semantic matches and cuisine is Any,
+    # treat it as an out-of-scope query. For sidebar browsing, keep all passing candidates.
     if is_text_search and preferences["cuisine"] == "Any" and not semantic_ranks:
         st.session_state.search_results = []
     else:
@@ -404,6 +409,16 @@ if st.session_state.search_results is not None:
 
                 st.caption(f"Hybrid match score: {score:.1f}")
                 price_symbols = "€" * restaurant["price_level"]
+
+                # Rating display logic
+                rating = restaurant.get("rating")
+                review_count = restaurant.get("review_count")
+                if rating:
+                    rating_str = f" · ⭐ {rating:.1f}"
+                    if review_count:
+                        rating_str += f" ({review_count}+)"
+                else:
+                    rating_str = ""
                 
                 dietary_tags = " · ".join(restaurant.get("dietary", []))
                 dietary_str = f" · {dietary_tags}" if dietary_tags else ""
@@ -413,7 +428,7 @@ if st.session_state.search_results is not None:
                 
                 st.write(
                     f'**{restaurant["cuisine"]}** · {restaurant["neighborhood"]} '
-                    f'· Price: {price_symbols}{dietary_str}{pet_badge}'
+                    f'· Price: {price_symbols}{rating_str}{dietary_str}{pet_badge}'
                 )
                 st.write(restaurant["description"])
                 
