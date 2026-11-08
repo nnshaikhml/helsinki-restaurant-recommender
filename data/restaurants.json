@@ -1732,7 +1732,7 @@
     "review_count": 230
   },
   {
-    "name": "Humu'z Döner Tripla",
+    "name": "Humu'z & Döner Tripla",
     "cuisine": "Middle Eastern",
     "neighborhood": "Pasila",
     "price_level": 1,
@@ -1788,5 +1788,106 @@
     "maps_url": "https://maps.google.com/?q=Dust+N+Fry+Itis+Itäkeskus+Helsinki",
     "rating": 4.0,
     "review_count": 180
+  },
+  {
+    "name": "Malai Indian Cuisine",
+    "cuisine": "Indian",
+    "neighborhood": "Kalasatama",
+    "price_level": 2,
+    "rating": 4.3,
+    "review_count": 180,
+    "dietary": [
+      "Halal",
+      "Vegetarian",
+      "Vegan"
+    ],
+    "pet_friendly": false,
+    "ambiance": [
+      "casual"
+    ],
+    "description": "Authentic South Asian dining in the REDI shopping center, serving fragrant curries, tandoori grills, and a versatile daily lunch buffet.",
+    "maps_url": "https://maps.google.com/?q=Malai+Restaurant+REDI+Helsinki",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeStZehLkWBgvSupFnEbWiDdBCVeO52zTpffJiIL7ytuDtm5ZPKXWwQH2Py1QutcNF1FGW8ydFsXWoDUf1V880eaQr-SV1qBLjh4djVwHwR4yROCZ8i5HMe8yqaTtV4PF76CIA=w506-h240-k-no"
+  },
+  {
+    "name": "Green Hippo Kallio",
+    "cuisine": "Cafe & Brunch",
+    "neighborhood": "Kallio",
+    "price_level": 2,
+    "rating": 4.4,
+    "review_count": 850,
+    "dietary": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten-Free"
+    ],
+    "pet_friendly": true,
+    "ambiance": [
+      "cozy",
+      "casual"
+    ],
+    "description": "A vibrant neighborhood favorite in Kallio offering healthy avocado toasts, nutrient-rich smoothie bowls, fresh salads, and specialty coffees.",
+    "maps_url": "https://maps.google.com/?q=Green+Hippo+Kallio+Helsinki",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfOA-FQtXCNzC4n9XYnvJjNALkB-s-3TgZ_fWV9isbfz8sJDPUuDRlzYPg8UBH19pyOdwI2Tdyuz7z_xoW9cHWAbFZJhLQBXOCuSaJIo94fYPH5PK2LNuI-6-r66D0W8DlCUmk=w408-h408-k-no"
+  },
+  {
+    "name": "Capperi Oulunkylä",
+    "cuisine": "Italian",
+    "neighborhood": "Oulunkylä",
+    "price_level": 2,
+    "rating": 4.5,
+    "review_count": 620,
+    "dietary": [
+      "Vegetarian",
+      "Vegan"
+    ],
+    "pet_friendly": true,
+    "ambiance": [
+      "cozy",
+      "casual"
+    ],
+    "description": "Award-winning traditional Neapolitan sourdough pizza baked in an authentic wood-fired oven near Oulunkylä station.",
+    "maps_url": "https://maps.google.com/?q=Capperi+Oulunkylä+Helsinki",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeMaqw5Oz9hMUetSg3A-Yd_sihhqBVIx8lF95dftluLE82xppqgsSBPMocYcNkBu68Kf6HgK4ghrRQkpxwN_eOqy1h9o1r0ruTltdo8Uey5YGe26zQNaU_Oy7EMX0nqhj2wCQs=w408-h408-k-no"
+  },
+  {
+    "name": "Delhi Rasoi Itäkeskus",
+    "cuisine": "Indian",
+    "neighborhood": "Itäkeskus",
+    "price_level": 2,
+    "rating": 4.2,
+    "review_count": 310,
+    "dietary": [
+      "Halal",
+      "Vegetarian",
+      "Vegan"
+    ],
+    "pet_friendly": false,
+    "ambiance": [
+      "casual"
+    ],
+    "description": "Flavorful North Indian comfort dishes, creamy butter chicken, sizzling tikkas, and freshly baked naan breads right by Itis.",
+    "maps_url": "https://maps.google.com/?q=Delhi+Rasoi+Itäkeskus+Helsinki",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeKvSWNQkMEHsa5LaSPbNVL10NAVsg75qj1wWvrGR40P9btIGcCtZyym3esMmlmQw2fHgtaPshOMea966VZxKu_91p9H87SmVr_RM7rZLOexPve4cqc3EqKSBo_3ViPzfiTLFhq=w408-h306-k-no"
+  },
+  {
+    "name": "Bibi Ravintola Itäkeskus",
+    "cuisine": "Persian",
+    "neighborhood": "Itäkeskus",
+    "price_level": 2,
+    "rating": 4.4,
+    "review_count": 420,
+    "dietary": [
+      "Halal",
+      "Vegetarian"
+    ],
+    "pet_friendly": false,
+    "ambiance": [
+      "casual",
+      "cozy"
+    ],
+    "description": "Warm and welcoming spot specializing in charcoal-grilled Persian kebabs, aromatic saffron rice platters, and traditional stews in East Helsinki.",
+    "maps_url": "https://maps.google.com/?q=Bibi+Ravintola+Itäkeskus+Helsinki",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd_iIH8aJHFpIfrgPjbBxzTqsPOiVENkO6EKwpRBR9C-vR8ADiV-B4FKfmP4vrJr9xvnONr_0043aT85xhCs9GXy-mJRZQqsSwwvX4uRvCK8CmBl0p-YP8F-DcRm9ZUpGeiu-M=w408-h272-k-no"
   }
 ]
